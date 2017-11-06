@@ -6,4 +6,4 @@ That was a great adventure, thank you for being a part of it! If you are interes
 
 ## Books
 
-* [A book series on JavaScript](https://github.com/getify/You-Dont-Know-JS)
+* [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
