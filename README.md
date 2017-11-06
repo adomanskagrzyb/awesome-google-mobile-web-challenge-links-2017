@@ -4,6 +4,8 @@
 
 Here is a place where we can collect, share and add all interesting links to articles, presentations, courses, videos etc that may be helpful for our community!
 
+- [Getting Started and Prerequisites](https://discussions.udacity.com/t/getting-started-and-prerequisites/418485?u=haitec) (Udacity Discussion Forum)
+
 ## Repo Overview
 
 This repository is divided into subfolders full of resources for each lesson and any topic that needs more information.
