@@ -12,3 +12,6 @@ The service worker handles the requests the user makes. It can send the request 
 ## Resource Links
 
 * [Firefox: Service Workers (explained)](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
+* [Google Web Fundamentals: Overview](https://developers.google.com/web/fundamentals/primers/service-workers)
+* [Google Web Fundamentals: Service Workers Life Cycle](https://developers.google.com/web/fundamentals/primers/service-workers/lifecycle)
+
