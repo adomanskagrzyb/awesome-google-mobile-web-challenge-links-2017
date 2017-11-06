@@ -16,6 +16,9 @@ This repository is divided into subfolders full of resources for each lesson and
 * [Lesson 3: Service Workers](serviceWorker/README.md)
 * [Lesson 4: IndexedDB & Caching](indexedDB/README.md)
 * [Lesson 5: Javascript Syntax](javascriptSyntax/README.md)
+* [Lesson 6: Functions](functions/README.md)
+* [Lesson 7: Built-ins](built-insx/README.md)
+* [Lesson 8: professional-developer-fu](javascriptSyntax/README.md)
 * [Further learning](furtherLearning/README.md)
 
 ## Thanks to contributors
