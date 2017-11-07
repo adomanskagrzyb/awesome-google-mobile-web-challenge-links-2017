@@ -19,7 +19,7 @@ This repository is divided into subfolders full of resources for each lesson and
 * [Lesson 5: Javascript Syntax](javascriptSyntax/README.md)
 * [Lesson 6: Functions](functions/README.md)
 * [Lesson 7: Built-ins](built-ins/README.md)
-* [Lesson 8: professional-developer-fu](javascriptSyntax/README.md)
+* [Lesson 8: professional-developer-fu](professional-developer-fu/README.md)
 * [Further learning](furtherLearning/README.md)
 
 ## Thanks to contributors
