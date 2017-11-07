@@ -1,4 +1,11 @@
-# Google Mobile Web Challenge Links 2017
+<p align="center">
+  <br>
+  <img width="300" src="./awesome_gmws_logo.png" alt="logo of repository">
+  <br>
+  <br>
+</p>
+
+## Google Mobile Web Challenge Links 2017
 
 ### Just getting started?
 
