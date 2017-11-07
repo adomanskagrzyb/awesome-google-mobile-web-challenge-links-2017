@@ -5,7 +5,8 @@
 Here is a place where we collect all the questions about Udacity and scholarship from AMA session!
 
 ## Ask Me Anything sessions
-- [Session #1](https://discussions.udacity.com/t/q-a-first-ama-session-on-slack/430482): Tuesday, 07-11-2017 at 11am-1pm CET
+- Session #1: Tuesday, 07-11-2017 at 11am-1pm CET <br>
+[GitHub](ama-sessions/session-1.md) or [forum](https://discussions.udacity.com/t/q-a-first-ama-session-on-slack/430482)
 - Session #2: TBA
 - Session #3: TBA 
 
