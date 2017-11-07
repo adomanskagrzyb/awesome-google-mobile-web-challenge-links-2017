@@ -11,6 +11,7 @@ Here is a place where we can collect, share and add all interesting links to art
 
 This repository is divided into subfolders full of resources for each lesson and any topic that needs more information.
 
+* [Q&A Sessions](ama-sessions/README.md)
 * [Lesson 1: Introduction](introduction/README.md)
 * [Lesson 2: Offline first](offlineFirst/README.md)
 * [Lesson 3: Service Workers](serviceWorker/README.md)
