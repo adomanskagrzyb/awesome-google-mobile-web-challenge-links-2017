@@ -5,6 +5,14 @@
 If some of the topics in lesson 3 were new to you, we hope the resource links here will help you:
 
 
+## Resource Links
+
+* [Firefox: Service Workers (explained)](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
+* [Google Web Fundamentals: Overview](https://developers.google.com/web/fundamentals/primers/service-workers)
+* [Google Web Fundamentals: Service Workers Life Cycle](https://developers.google.com/web/fundamentals/primers/service-workers/lifecycle)
+* [Firefox: Cache](https://developer.mozilla.org/en-US/docs/Web/API/Cache)
+
+
 ## Overview:
 The service worker handles the requests the user makes. It can send the request straight to the server (cloud) or first try to load cached data while requesting new data from the server. 
 
@@ -56,12 +64,4 @@ caches.keys().then(function(cacheNames) {
 
 * caches.delete(cache_name): finds cache with given name and return a promise
 * caches.keys(): returns a promise with an array of cache keys
-
-
-## Resource Links
-
-* [Firefox: Service Workers (explained)](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
-* [Google Web Fundamentals: Overview](https://developers.google.com/web/fundamentals/primers/service-workers)
-* [Google Web Fundamentals: Service Workers Life Cycle](https://developers.google.com/web/fundamentals/primers/service-workers/lifecycle)
-* [Firefox: Cache](https://developer.mozilla.org/en-US/docs/Web/API/Cache)
 
