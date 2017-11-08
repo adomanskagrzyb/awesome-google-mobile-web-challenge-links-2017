@@ -18,13 +18,13 @@ This repository is divided into subfolders full of resources for each lesson and
 * [Lesson 4: IndexedDB & Caching](indexedDB/README.md)
 * [Lesson 5: Javascript Syntax](javascriptSyntax/README.md)
 * [Lesson 6: Functions](functions/README.md)
-* [Lesson 7: Built-ins](built-insx/README.md)
-* [Lesson 8: professional-developer-fu](javascriptSyntax/README.md)
+* [Lesson 7: Built-ins](built-ins/README.md)
+* [Lesson 8: professional-developer-fu](professional-developer-fu/README.md)
 * [Further learning](furtherLearning/README.md)
 
 ## Thanks to contributors
 
 * [Anna Domańska-Grzyb](https://github.com/DomanskaGrzyb)
 * [Miguel Dönicke](https://github.com/Haitec)
-* [Alexander](https://github.com/Mycroft1891)
+* [Alexander Luna](https://github.com/Mycroft1891)
 * [Bogdan Covrig](https://github.com/bogdaaamn)
