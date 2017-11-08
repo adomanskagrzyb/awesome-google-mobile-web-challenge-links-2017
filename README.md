@@ -8,7 +8,7 @@
 ## Awesome Google Developer Challenge: Mobile Web Specialist 2017/2018
 
 A curated list of awesome resources for recipients of the [Google Developer Challenge Scholarship](https://www.udacity.com/google-scholarships) 2017/2018  
-Inspired by [awesome lists](https://github.com/sindresorhus/awesome/blob/master/awesome.md)  
+Inspired by [awesome lists](https://github.com/sindresorhus/awesome)  
 ### Contribution
 
 Feedback and contributions are always welcome and appreciated.  
@@ -22,7 +22,7 @@ You can contribute interesting links to articles, presentations, videos, podcast
 - [Getting Started and Prerequisites](https://discussions.udacity.com/t/getting-started-and-prerequisites/418485?u=haitec) (Udacity Discussion Forum)
 - [Video: Jake Archibald about progressive apps](https://www.youtube.com/watch?v=cmGr0RszHc8) (from Google I/O 2016)
 
-### Content
+## Content
 
 This repository is divided into subfolders full of resources for each lesson and any topic that needs more information.
 
@@ -33,13 +33,15 @@ This repository is divided into subfolders full of resources for each lesson and
 * [Lesson 5: Javascript Syntax](javascriptSyntax/README.md)
 * [Lesson 6: Functions](functions/README.md)
 * [Lesson 7: Built-ins](built-ins/README.md)
-* [Lesson 8: professional-developer-fu](javascriptSyntax/README.md)
-* [Q&A Sessions](ama-sessions/README.md)
+* [Lesson 8: professional-developer-fu](professional-developer-fu/README.md)
 * [Further learning](furtherLearning/README.md)
+* [Q&A Sessions](ama-sessions/README.md)
 
 ## Thanks to contributors
 
 * [Anna Domańska-Grzyb](https://github.com/DomanskaGrzyb)
+* [Amanuel Ghebreweldi](https://github.com/Agheb)
+* [Jeff Vaes](https://github.com/jvaes)
 * [Miguel Dönicke](https://github.com/Haitec)
-* [Alexander](https://github.com/Mycroft1891)
+* [Alexander Luna](https://github.com/Mycroft1891)
 * [Bogdan Covrig](https://github.com/bogdaaamn)
