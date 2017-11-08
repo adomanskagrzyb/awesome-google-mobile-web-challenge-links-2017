@@ -18,7 +18,7 @@ If some of the syntax in lesson 5 were new to you, we hope the resource links he
 * [MDN: for..of (the new way of iterating arrays)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
 * [Google Developers: Promises](https://developers.google.com/web/fundamentals/primers/promises)
 * [MDN: Symbols](https://developer.mozilla.org/en-US/docs/Glossary/Symbol)
-
+* [DevDocs - JavaScript documentation](http://devdocs.io/javascript/)
 
 ## Overview:
 
