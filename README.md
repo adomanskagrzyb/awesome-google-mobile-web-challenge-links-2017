@@ -24,7 +24,8 @@ This repository is divided into subfolders full of resources for each lesson and
 
 ## Thanks to contributors
 
-* [Anna Domańska-Grzyb](https://github.com/DomanskaGrzyb)
-* [Miguel Dönicke](https://github.com/Haitec)
 * [Alexander Luna](https://github.com/Mycroft1891)
+* [Aman Ghebreweldi](https://github.com/Agheb)
+* [Anna Domańska-Grzyb](https://github.com/DomanskaGrzyb)
 * [Bogdan Covrig](https://github.com/bogdaaamn)
+* [Miguel Dönicke](https://github.com/Haitec)
