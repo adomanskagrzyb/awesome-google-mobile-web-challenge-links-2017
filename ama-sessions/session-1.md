@@ -1,6 +1,7 @@
 ## AMA Session #1  
 
-**Date**: Tuesday, 07-11-2017 at 11am-1pm CET
+**Date**: Tuesday, 07-11-2017 at 11am-1pm CET <br>
+**Mentors**: Anais and Andy
 
 #### How many moderators from the course are in the channel busy answering questions?  
 There are around 20 mentors monitoring the forum, and 3 to 4 admins in this slack channel. But you guys will be getting a full time community manager here soon as well.
