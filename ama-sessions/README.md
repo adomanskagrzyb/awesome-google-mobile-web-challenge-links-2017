@@ -6,7 +6,7 @@ Here is a place where we collect all the questions about Udacity and scholarship
 
 ## AMA transcripts
 - [Session #1](session-1.md) : Tuesday, 07-11-2017 at 11am-1pm CET
-- Session #2: TBA
+- [Session #2](session-2.md) : Tuesday, 07-11-2017 at 8pm-10pm CET
 - Session #3: TBA 
 
 ## FAQ Related links
