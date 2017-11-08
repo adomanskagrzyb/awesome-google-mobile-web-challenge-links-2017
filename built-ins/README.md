@@ -5,3 +5,5 @@ If some of the built-ins in lesson 7 were new to you, we hope the resource links
 [<= GO BACK ](../README.md)
 
 ## Resource Links
+
+* [Symbols]()
