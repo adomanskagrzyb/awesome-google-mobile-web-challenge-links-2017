@@ -95,10 +95,10 @@ I do have a cool job em! I head up our scholarships team at Udacity (check out a
 #### Do you plan any other scholarship for europe ? I think I saw something about data.
 We will be updating our scholarships page (udacity.com/scholarships) with all new offering so definitely check the site for any updates and fill out the information requested under the “notify me” section so you receive emails when new programs become available
 
-#### Are we earning a pretty Badge at least if we don't succeed to the second phase? It's a good 3 months course full of insight and we might want to show it off in our LinkedIn without sounding like we failed to get into the Nano-degree. ```
+#### Are we earning a pretty Badge at least if we don't succeed to the second phase? It's a good 3 months course full of insight and we might want to show it off in our LinkedIn without sounding like we failed to get into the Nano-degree.
 We will follow up at the end of the Scholarship Challenge with instructions on how to show off your participation (and selection) on LinkedIn Sabina
 
-#### the forum is 'Oops! That page doesn't exist or is private.', how long will it take to fix this ?
+#### The forum is 'Oops! That page doesn't exist or is private.', how long will it take to fix this ?
 This is a super important question from Enas. If you are seeing that error message, it means you need to first access the forums from inside the classroom. Do do that;
 1) Go to the course: https://classroom.udacity.com/courses/ud899-emea
 2) Go into one of the lessons (like this one: https://classroom.udacity.com/courses/ud899-emea/lessons/d20f0f14-11ed-49e9-9ef4-56d7650c36d4/concepts/cecdb157-5ce7-4c76-897c-fb964f8092f2) 
