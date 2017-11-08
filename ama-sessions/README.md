@@ -10,4 +10,4 @@ Here is a place where we collect all the questions about Udacity and scholarship
 - Session #3: TBA 
 
 ## FAQ Related links
-- [George](https://discussions.udacity.com/u/gkarantanis)'s [FAQ](https://discussions.udacity.com/t/frequently-asked-questions-most-popular-ones-includes-official-answers/430201) about Udacity and scholarship. 
+- [FAQ](https://discussions.udacity.com/t/frequently-asked-questions-most-popular-ones-includes-official-answers/430201) about Udacity and scholarship. 
