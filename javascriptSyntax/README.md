@@ -23,3 +23,6 @@ If some of the syntax in lesson 5 were new to you, we hope the resource links he
 ## Overview:
 
 ECMAScript (or ES) is a scripting-language specification standardized by Ecma International. It was created to standardize JavaScript, so as to foster multiple independent implementations. JavaScript has remained the best-known implementation of ECMAScript since the standard was first published, with other well-known implementations including JScript and ActionScript. [Read more](https://en.wikipedia.org/wiki/ECMAScript)
+
+* [What’s the difference between JavaScript and ECMAScript?](https://medium.freecodecamp.org/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5)
+* [The Modern JavaScript Tutorial](https://javascript.info/)
