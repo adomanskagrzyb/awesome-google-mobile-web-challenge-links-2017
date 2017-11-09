@@ -44,6 +44,7 @@ This repository is divided into subfolders full of resources for each lesson and
 * [Anna Domańska-Grzyb](https://github.com/DomanskaGrzyb)
 * [Bogdan Covrig](https://github.com/bogdaaamn)
 * [Danny Callaghan](https://github.com/dannycallaghan)
+* [Iulia Voicu](https://github.com/Sugahzor)
 * [Jeff Vaes](https://github.com/jvaes)
 * [Miguel Dönicke](https://github.com/Haitec)
 * [Ovidiu Voicu](https://github.com/odv)
