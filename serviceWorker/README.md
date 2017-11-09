@@ -25,7 +25,7 @@ The service worker handles the requests the user makes. It can send the request 
 
 ## Creating cache and saving information in the cache:
 
-```
+```Javascript
 caches.open(‘cache_store_name’).then(function(cache) {
     return cache.addAll(urlsToCache);
 })
@@ -40,7 +40,7 @@ It is possible to use these 3 ways to store information in cache:
 
 ## Fetch cached data and non-cached data
 
-```
+```Javascript
 caches.match(event.request).then(function(response) {
     return response || fetch(event.request);
 })
@@ -54,7 +54,7 @@ It is possible to use these 2 ways to fetch cached data:
 
 ## Delete Cache
 
-```
+```Javascript
 caches.keys().then(function(cacheNames) {
     return Promise.all(
     cacheNames.filter(function(cacheName) {
