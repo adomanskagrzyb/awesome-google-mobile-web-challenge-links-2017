@@ -7,11 +7,11 @@
 
 ## Awesome Google Developer Challenge: Mobile Web Specialist 2017/2018
 
-A curated list of awesome resources for recipients of the [Google Developer Challenge Scholarship](https://www.udacity.com/google-scholarships) 2017/2018  
-Inspired by [awesome lists](https://github.com/sindresorhus/awesome)  
+A curated list of awesome resources for recipients of the [Google Developer Challenge Scholarship](https://www.udacity.com/google-scholarships) 2017/2018
+Inspired by [awesome lists](https://github.com/sindresorhus/awesome)
 ### Contribution
 
-Feedback and contributions are always welcome and appreciated.  
+Feedback and contributions are always welcome and appreciated.
 You can contribute interesting links to articles, presentations, videos, podcasts etc that might be helpful for our community.
 
 
@@ -46,3 +46,5 @@ This repository is divided into subfolders full of resources for each lesson and
 * [Jeff Vaes](https://github.com/jvaes)
 * [Miguel Dönicke](https://github.com/Haitec)
 * [Ovidiu Voicu](https://github.com/odv)
+* [Sekab](https://github.com/amrtaher1234)
+* [Vittorio](https://github.com/vee-mo)

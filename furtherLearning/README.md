@@ -12,3 +12,7 @@ That was a great adventure, thank you for being a part of it! If you are interes
 
 * [Future App Model: Advanced Service Worker (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=J2dOTKBoTL4)
 Jake Archibald shares the future of the web app model, with Foreign Fetch, Streams and more.
+
+## Courses
+
+* [Intro to AJAX (Udacity)](https://www.udacity.com/course/intro-to-ajax--ud110)
