@@ -12,6 +12,7 @@ If some of the topics in lesson 3 were new to you, we hope the resource links he
 * [Google Web Fundamentals: Service Workers Life Cycle](https://developers.google.com/web/fundamentals/primers/service-workers/lifecycle)
 * [Firefox: Cache](https://developer.mozilla.org/en-US/docs/Web/API/Cache)
 * [Firefox: Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
+* [High-performance service worker loading](https://developers.google.com/web/fundamentals/primers/service-workers/high-performance-loading)
 
 
 ## Overview:
