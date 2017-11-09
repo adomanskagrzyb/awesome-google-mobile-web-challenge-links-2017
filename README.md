@@ -7,11 +7,11 @@
 
 ## Awesome Google Developer Challenge: Mobile Web Specialist 2017/2018
 
-A curated list of awesome resources for recipients of the [Google Developer Challenge Scholarship](https://www.udacity.com/google-scholarships) 2017/2018  
-Inspired by [awesome lists](https://github.com/sindresorhus/awesome)  
+A curated list of awesome resources for recipients of the [Google Developer Challenge Scholarship](https://www.udacity.com/google-scholarships) 2017/2018
+Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 ### Contribution
 
-Feedback and contributions are always welcome and appreciated.  
+Feedback and contributions are always welcome and appreciated.
 You can contribute interesting links to articles, presentations, videos, podcasts etc that might be helpful for our community.
 
 
@@ -19,8 +19,7 @@ You can contribute interesting links to articles, presentations, videos, podcast
 
 ### Just getting started?
 
-- [Getting Started and Prerequisites](https://discussions.udacity.com/t/getting-started-and-prerequisites/418485?u=haitec) (Udacity Discussion Forum)
-- [Video: Jake Archibald about progressive apps](https://www.youtube.com/watch?v=cmGr0RszHc8) (from Google I/O 2016)
+[Take a look here!](gettingStarted/README.md)
 
 ## Content
 
