@@ -21,3 +21,61 @@ If some of the topics in lesson 4 were new to you, we hope the resource links he
 ## Video Links
 
 * [Google Developer Working with IndexedDB](https://www.youtube.com/watch?v=vCumk1sXHcY)
+
+## Overview:
+
+Throughout the course, we make use of the [idb package](https://www.npmjs.com/package/idb) to use promises rather than callbacks. In order to use IndexedDB (idb package) you have to import it first:
+
+```Javascript
+import idb from 'idb';
+```
+
+When you use the ```idb.open()``` method it returns a promise that resolves to a DB which gives you access to the database. Once you create the database you can create an objectStore to store key/value pairs.
+
+You can also create an index just by referencing your objectStore and calling the ```createIndex(indexName, keyPath)``` method.
+
+```Javascript
+var dbPromise = idb.open('database_name', 1, function(upgradeDb) {
+  var store = upgradeDb.createObjectStore('store_name', {
+    keyPath: 'id'
+  });
+  store.createIndex('indexName', 'keypath');
+});
+```
+---
+
+### Read & Write to IndexedDB
+
+Every time you want to access or write to the database you created, you have to open a transaction using ```transaction('store_name')``` or ```transaction('store_name', 'readwrite')```  if you want to write to your database. After that you just reference your objectStore and use ```put({})``` to store something:
+
+```Javascript
+dbPromise.then(function(db) {
+  var tx = db.transaction('store_name', 'readwrite');
+  var yourStore = tx.objectStore('store_name');
+
+  yourStore.put({
+    name: 'John Smith',
+    age: 25,
+    favoriteAnimal: 'dog'
+  });
+
+  return tx.complete;
+}).then(function() {
+  console.log('I just added something to my Database');
+});
+```
+
+To get items you do something similar:
+
+```Javascript
+dbPromise.then(function(db) {
+  var tx = db.transaction('store_name');
+  var yourStore = tx.objectStore('store_name');
+
+  return yourStore.getAll();
+}).then(function(yourObjects) {
+  console.log('I got these objects in my store', yourObjects);
+});
+```
+
+For more methods and a full review of the IndexedDB API, please read the [IndexedDB API page](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
