@@ -17,6 +17,9 @@ Jake Archibald shares the future of the web app model, with Foreign Fetch, Strea
 ## Courses
 
 * [Intro to AJAX (Udacity)](https://www.udacity.com/course/intro-to-ajax--ud110)
+* [Free Code Camp](https://www.freecodecamp.org)
+* [Codecademy: JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+* [W3Schools: Javascript Tutorials](https://www.w3schools.com/js/)
 
 ## Questions
 
