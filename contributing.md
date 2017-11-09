@@ -1,8 +1,20 @@
-##### Description
-Thank you for your willingness to add great resources to our community!
+# Contributing
 
-## Adding content
+The following is a set of guidelines and instructions for contributing to Awesome Google Developer Challenge: Mobile Web Specialist 2017/2018
+
+#### Beginner vs. Professional
+
+Since this repo is a resource for a learning course with many students who never contributed to GitHub before, this document explains how to get started. If you are a GitHub Pro: [Head right to the guidelines.](#user-content-guidelines)
+
+#### General
+
+Feedback and contributions are always welcome and appreciated.
+You can contribute new links to articles, presentations, videos, podcasts, etc. that might be helpful for our community.
+
+## Adding Content
 - [Writing READMEs - Udacity course](https://www.udacity.com/course/writing-readmes--ud777)
+
+# Guidelines
 
 ## Git Commit Message Style
 

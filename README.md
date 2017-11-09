@@ -9,11 +9,10 @@
 
 A curated list of awesome resources for recipients of the [Google Developer Challenge Scholarship](https://www.udacity.com/google-scholarships) 2017/2018  
 Inspired by [awesome lists](https://github.com/sindresorhus/awesome)  
-### Contribution
 
-Feedback and contributions are always welcome and appreciated.  
-You can contribute interesting links to articles, presentations, videos, podcasts etc that might be helpful for our community.
+### How to Contribute
 
+[Read our How-To and Guidelines](guidelines.md)
 
 **Please note this repo is intended for the Web Developer Intermediate Track**
 
