@@ -33,7 +33,7 @@ That was a great adventure, thank you for being a part of it! If you are interes
   - [Functional programming](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
 - <b>Github Projects:</b>
-  - [Javascript functions examples with description)](https://github.com/moumen-soliman/Javascript)
+  - [Javascript functions examples with description - Github project)](https://github.com/moumen-soliman/Javascript)
 
 ## HTML
 
@@ -89,11 +89,11 @@ That was a great adventure, thank you for being a part of it! If you are interes
   - <b>Texteditors</b>
     - [Sublime](https://www.sublimetext.com/3)
     - <b>Atom</b>
-      - [Visual Studio Code (VSCode)](https://code.visualstudio.com/)
-      - [Visual Studio Code (VSCode) Extension](https://github.com/Microsoft/vscode-chrome-debug)
-    - <b>VSCode</b>
       - [Atom](https://atom.io)
       - [Atom Packages](https://www.youtube.com/watch?v=aiXNKHKWlmY)
+    - <b>VSCode</b>
+      - [Visual Studio Code (VSCode)](https://code.visualstudio.com/)
+      - [Visual Studio Code (VSCode) Extension](https://github.com/Microsoft/vscode-chrome-debug)
     - [PHPstorm Free edition](https://www.jetbrains.com/phpstorm/download/)
     - [Brackets](brackets.io/)
     - [hyper](https://hyper.is/)
