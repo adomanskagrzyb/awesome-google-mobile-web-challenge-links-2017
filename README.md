@@ -40,6 +40,7 @@ This repository is divided into subfolders full of resources for each lesson and
 ## Thanks to contributors
 
 * [Alexander Luna](https://github.com/Mycroft1891)
+* [Alexandru Fulop](https://github.com/alexandrufulop)
 * [Aman Ghebreweldi](https://github.com/Agheb)
 * [Anna Domańska-Grzyb](https://github.com/DomanskaGrzyb)
 * [Bogdan Covrig](https://github.com/bogdaaamn)
@@ -47,6 +48,7 @@ This repository is divided into subfolders full of resources for each lesson and
 * [Iulia Voicu](https://github.com/Sugahzor)
 * [Jeff Vaes](https://github.com/jvaes)
 * [Miguel Dönicke](https://github.com/Haitec)
+* [Moumen Soliman](https://github.com/moumen-soliman)
 * [Ovidiu Voicu](https://github.com/odv)
 * [Sekab](https://github.com/amrtaher1234)
 * [Szoupi](https://github.com/szoupi)
