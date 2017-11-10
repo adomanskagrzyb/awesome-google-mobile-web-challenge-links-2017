@@ -148,8 +148,33 @@ That was a great adventure, thank you for being a part of it! If you are interes
 
 - <b>5.4 - ONLINE COURSES</b>
   - [Udacity-nanodegrees - Github project](https://github.com/mikesprague/udacity-nanodegrees)
-  - [](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA)
+  - [Javascript channel - Wes Bos](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA)
   - [Treehouse](https://teamtreehouse.com/)
   - [udemy](https://www.udemy.com/)  
   - [Scotch](https://scotch.io/)
 
+- <b>5.5 - MORE AWESOME RESOURCES</b>
+  - <b>A comprehensive list of categorised resources :</b>
+  	- [awesome - Github project](https://github.com/sindresorhus/awesome/)  	
+  - <b>Articles</b>
+    - <b>Security:</b>
+  	  - [Moonpig vulnerability](http://www.ifc0nfig.com/moonpig-vulnerability/)
+    - <b>Technologies:</b>
+  	  - [Web assembly](http://webassembly.org)  	  
+  	  - [amp project](https://www.ampproject.org)
+
+- <b>5.6 - CODING GAMES/CHALLENGES</b>
+  - [Flexbox froggy](http://flexboxfroggy.com)  
+  - [CSS Grid garden](http://cssgridgarden.com)  
+  - [100 Days of code](http://100daysofcode.com)  
+  - [Code challenge - codeburst](https://codeburst.io/coding-challenge-c5e7e42bb782)
+
+- <b>5.7 - TROUBLESHOOTING</b>
+  - <b>Links related to courses:</b>
+  	- [Can’t access the forum?](https://discussions.udacity.com/t/can-t-access-your-program-s-udacity-discussions-forum-send-us-a-message/17573)
+
+  - <b>Links related to issues like installs:</b>
+    - [Windows build tools](https://github.com/felixrieseberg/windows-build-tools/issues/9)  
+    - [Upgrade/downgrade using npm](https://www.abeautifulsite.net/how-to-upgrade-or-downgrade-nodejs-using-npm)  
+    - [Fixing npm permissions](https://docs.npmjs.com/getting-started/fixing-npm-permissions)  
+    - [installing nodejs issue - Stack overflow](https://stackoverflow.com/questions/17496189/error-in-installing-node-js-module-using-npm)  
