@@ -15,6 +15,7 @@ If some of the topics in lesson 3 were new to you, we hope the resource links he
 * [High-performance service worker loading](https://developers.google.com/web/fundamentals/primers/service-workers/high-performance-loading)
 * [Google Chrome Developers video: Introduction to Service Workers](https://www.youtube.com/watch?v=jVfXiv03y5c1)
 * [Mozilla Service Workers examples](https://serviceworke.rs/)
+* [JavaScript Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
 
 
 ## Overview:
