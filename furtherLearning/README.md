@@ -67,25 +67,89 @@ That was a great adventure, thank you for being a part of it! If you are interes
 - <b>Node installation:</b>
   - [Node School](https://nodeschool.io/)
   - [Node on windows](http://blog.teamtreehouse.com/install-node-js-npm-windows)
+  - [Node on Mac](http://nodesource.com/blog/installing-nodejs-tutorial-mac-os-x/)
+  - [Node on Mac - Video](https://youtu.be/Imj8PgG3bZU)
   - [Productivity](https://medium.com/productivity-freak/avoiding-productivity-mousetraps-177d80fa533b)
 
 - <b>Using Gulp</b>
   - [Getting started](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
   - [Update to the latest Gulp sass](https://github.com/dlmanning/gulp-sass/wiki/Update-to-the-latest-Gulp-Sass)
 
-- <b>Texteditors</b>
-  - [Sublime](https://www.sublimetext.com/3)
-  - [Atom](https://atom.io/)
-  - [Visual Studio Code (VSCode)](https://code.visualstudio.com/)
-  - [PHPstorm Free edition](https://www.jetbrains.com/phpstorm/download/)
-  - [Brackets](brackets.io/)
+## GENERAL
 
-## Questions
+- <b>5.1 - TOOLS</b>
+  - <b>NodeJS</b>
+    - [Node.JS main](https://nodejs.org/en/)
+    - [Node.JS Gyp](https://github.com/nodejs/node-gyp)
 
-* [Quora](https://www.quora.com/What-is-callback-hell)
+  - <b>NVM’s</b>
+	- [NVM main](https://github.com/creationix/nvm)
+	- [NVM windows](https://github.com/coreybutler/nvm-windows)
 
+  - <b>Texteditors</b>
+    - [Sublime](https://www.sublimetext.com/3)
+    - <b>Atom</b>
+      - [Visual Studio Code (VSCode)](https://code.visualstudio.com/)
+      - [Visual Studio Code (VSCode) Extension](https://github.com/Microsoft/vscode-chrome-debug)
+    - <b>VSCode</b>
+      - [Atom](https://atom.io)
+      - [Atom Packages](https://www.youtube.com/watch?v=aiXNKHKWlmY)
+    - [PHPstorm Free edition](https://www.jetbrains.com/phpstorm/download/)
+    - [Brackets](brackets.io/)
+    - [hyper](https://hyper.is/)
 
-## Tutorials
+  - <b>Packages & terminals:</b>
+    - [npm gulp-sass package](https://www.npmjs.com/package/gulp-sass)
+    - [Yarn package](https://yarnpkg.com/lang/en/)
+    - [package control](https://packagecontrol.io/browse/popular)
+    - [cmder](http://cmder.net/)
+    - [Windows 8.1 SDK](https://developer.microsoft.com/en-us/windows/downloads/windows-8-1-sdk)
 
-* [JavaScript Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
+  - <b>Security certificates:</b>
+    - [Cartbot](https://certbot.eff.org)
+
+  - <b>Online coding tools:</b>
+  	- [C9](https://c9.io/)
+  	- [Replit Javascript](http://www.replit.info/languages/javascript)
+  	- [Codelabs - Google](https://codelabs.developers.google.com/)
+
+  - <b>Collaboration Tools:</b>
+  	- [Gitter](https://gitter.im)
+
+  - <b>Testing:</b>
+  	- [Cypress](https://www.cypress.io)
+
+  - <b>Other helpful tools:</b>
+  	- [JS HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
+  	- [Mozilla Releases Firefox developer edition](http://www.omgubuntu.co.uk/2014/11/mozilla-releases-firefox-developer-edition)
+  	- [Service worker ready - Github project](https://jakearchibald.github.io/isserviceworkerready/)
+  	- [Cypress](https://www.cypress.io)
+  	- [Service worker - caniuse](https://caniuse.com/#feat=serviceworkers)
+  	- [Cypress](https://www.cypress.io)
+  	- [compat-table ES6 - Github project](https://kangax.github.io/compat-table/es6/)
+
+  - <b>Mac:</b>
+  	- [Brew](https://brew.sh/)
+  	- [CakeBrew](https://www.cakebrew.com/)
+	- [Node on Mac](http://nodesource.com/blog/installing-nodejs-tutorial-mac-os-x/)
+	- [Node on Mac - Video](https://youtu.be/Imj8PgG3bZU)
+
+- <b>5.2 - COMMUNITIES</b>
+  - [Stack overflow](https://stackoverflow.com/)
+  - [Hash node](https://hashnode.com/)
+  - [Code burst](https://codeburst.io/)
+  - [Freecodecamp](https://medium.freecodecamp.org/)
+
+- <b>5.3 - PODCASTS & NEWS</b>
+  - [Syntax.fm](https://syntax.fm/)
+  - [Shop talkshow](http://shoptalkshow.com/)
+  - [Frontend happy hour](http://frontendhappyhour.com)
+  - [Twitter/javascriptdaily](https://twitter.com/javascriptdaily)
+
+- <b>5.4 - ONLINE COURSES</b>
+  - [Udacity-nanodegrees - Github project](https://github.com/mikesprague/udacity-nanodegrees)
+  - [](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA)
+  - [Treehouse](https://teamtreehouse.com/)
+  - [udemy](https://www.udemy.com/)  
+  - [Scotch](https://scotch.io/)
 
