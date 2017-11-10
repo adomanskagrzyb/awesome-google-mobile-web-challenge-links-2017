@@ -4,9 +4,22 @@ That was a great adventure, thank you for being a part of it! If you are interes
 
 [<= GO BACK ](../README.md)
 
-## Books
+## Javascript
 
-* [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
+- <b>Articles</b>
+  - <b>Callback Functions:</b>
+  	- [Javascript - Callback functions](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
+  
+  - <b>Promises:</b>
+  	- [PromisesJS](https://www.promisejs.org/)
+  	- [Promises Basics](https://javascript.info/promise-basics)
+  	- [What is Promises?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
+  	- [Promises for dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
+  	- [What is callback hell?](https://www.quora.com/What-is-callback-hell)
+  	- [Promises Fundamentals](https://developers.google.com/web/fundamentals/primers/promises)
+  	- [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+  	- [Promise chaining error handling](https://dev.to/azizhk110/javascript-promise-chaining--error-handling?utm_content=buffer50085&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+  	- [Obj navigator](https://www.w3schools.com/jsref/obj_navigator.asp)
 
 ## Videos
 
