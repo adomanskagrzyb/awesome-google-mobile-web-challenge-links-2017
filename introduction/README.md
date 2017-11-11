@@ -8,3 +8,4 @@ We have added some quick links to the forums and also the forum thread to learn 
 
 * [Forum Link (Only for accepted students)](https://forums.udacity.com/?forum_path=c/standalone-courses/ud899-emea)
 * [How to access the Course Slack Channel](https://discussions.udacity.com/t/how-to-access-the-udacity-slack-channels-workspace-for-this-course/412207/26)
+* [Google Developer: Web Fundamentals (An Overview)](https://developers.google.com/web/fundamentals/)
