@@ -15,6 +15,7 @@ If some of the topics in lesson 3 were new to you, we hope the resource links he
 * [High-performance service worker loading](https://developers.google.com/web/fundamentals/primers/service-workers/high-performance-loading)
 * [Google Chrome Developers video: Introduction to Service Workers](https://www.youtube.com/watch?v=jVfXiv03y5c1)
 * [Mozilla Service Workers examples](https://serviceworke.rs/)
+* [JavaScript Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
 
 
 ## Overview:
@@ -25,7 +26,7 @@ The service worker handles the requests the user makes. It can send the request 
 
 ## Creating cache and saving information in the cache:
 
-```
+```Javascript
 caches.open(‘cache_store_name’).then(function(cache) {
     return cache.addAll(urlsToCache);
 })
@@ -40,7 +41,7 @@ It is possible to use these 3 ways to store information in cache:
 
 ## Fetch cached data and non-cached data
 
-```
+```Javascript
 caches.match(event.request).then(function(response) {
     return response || fetch(event.request);
 })
@@ -54,7 +55,7 @@ It is possible to use these 2 ways to fetch cached data:
 
 ## Delete Cache
 
-```
+```Javascript
 caches.keys().then(function(cacheNames) {
     return Promise.all(
     cacheNames.filter(function(cacheName) {
