@@ -19,6 +19,7 @@ If some of the syntax in lesson 5 were new to you, we hope the resource links he
 * [Google Developers: Promises](https://developers.google.com/web/fundamentals/primers/promises)
 * [MDN: Symbols](https://developer.mozilla.org/en-US/docs/Glossary/Symbol)
 * [DevDocs - JavaScript documentation](https://devdocs.io/javascript/)
+* [JavaScript Garden - Documentation about the most quirky parts of the JavaScript](http://bonsaiden.github.io/JavaScript-Garden/)
 
 ## Overview:
 
