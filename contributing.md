@@ -3,7 +3,7 @@ Thank you for taking time to contribute. We really appreciate your help.
 
 # Contribution Guidelines
 
-Awesome lists are a curation, not a collection. We want to make it easier for students to find additional learning resources in the context of this scholarship. Quality matters and not quantity.This is why we can't accept every submission. However, we're always open for feedback to ensure a certain level an awesomeness :wink:
+Awesome lists are a curation, not a collection. We want to make it easier for students to find additional learning resources in the context of this scholarship. Quality matters and not quantity.This is why we can't accept every submission. However, we're always open for feedback to ensure a certain level of awesomeness :wink:
 
 but **what is awesome ?**
 
