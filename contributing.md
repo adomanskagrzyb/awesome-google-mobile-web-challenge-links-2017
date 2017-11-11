@@ -3,7 +3,7 @@ Thank you for taking time to contribute. We really appreciate your help.
 
 # Contribution Guidelines
 
-Awesome lists are a curation, not a collection. We want to make it easier for students to find additional learning resources in the context of this scholarship. Quality matters and not quantity.This is why we can't accept every submission. However, we're always open for feedback to ensure a certain level awesomeness :wink:
+Awesome lists are a curation, not a collection. We want to make it easier for students to find additional learning resources in the context of this scholarship. Quality matters and not quantity.This is why we can't accept every submission. However, we're always open for feedback to ensure a certain level an awesomeness :wink:
 
 but **what is awesome ?**
 
@@ -11,17 +11,17 @@ but **what is awesome ?**
 
 Here are some things what we consider as an awesome resource:
 
-- highly recommend by other contributors or fellow students
+- highly recommended by other contributors or fellow students
 - hard to find for various reasons
 - helpful if you struggle with a concept by a different way of teaching 
 - you wish you had known this resource when you started taking this course
 
-Since the selection process is community-driven, you'll get GitHub reactions from others for your submission. This gives you way to find out if you're on the right track.
+Since the selection process is community-driven, you'll get GitHub reactions from others for your submission. This gives you a way to find out if you're on the right track.
 
 ## Contributing
 
 Please [submit a pull request](#how-to-submit-a-pull-request) or [create an issue](#how-to-create-an-issue) to add something to the list.  
-**Submissions via pull requests are highly recommended. It may be daunting if you're new to Git and/or Github. But the use of this tools are important and useful skills for any developer. Need help getting started ? [Click here](#getting-started-with-git-and-github)**
+>**Submissions via pull requests are highly recommended. It may be daunting if you're new to Git and/or Github. However the use of this tools is an important skill for any developer. Need help getting started ? [Click here](#getting-started-with-git-and-github)**
 
 ### Quality Standards for Issues and PRs
 
@@ -58,6 +58,10 @@ git push master
 ```
 
 6. Back to GitHub.com: From your fork open a pull request.
+
+## A Final Note
+
+If your submission was a success, feel free to add your name in alphabetical order to the [contributer's list](README.md#thanks-to-contributors)
 
 ---
 
