@@ -1,4 +1,6 @@
 
+Thank you for taking time to contribute. We really appreciate your help.  
+
 # Contribution Guidelines
 
 Awesome lists are a curation, not a collection. We want to make it easier for students to find additional learning resources in the context of this scholarship. Quality matters and not quantity.This is why we can't accept every submission. However, we're always open for feedback to ensure a certain level awesomeness ;) 
@@ -18,7 +20,7 @@ Since the selection process is community-driven, you'll get GitHub reactions fro
 
 ## Contributing
 
-Please submit a pull request or create an issue to add something to the list.
+Please submit a pull request or create an issue to add something to the list.  
 **Submissions via pull requests are highly recommended. It may be daunting if you're new to Git and/or Github. But the use of this tools are important and useful skills for any developer. Need help getting started ? Click here**
 
 ### Quality Standards for Issues and PRs
@@ -56,12 +58,6 @@ git push master
 ```
 
 6. Back to GitHub.com: From your fork open a pull request.
-
-
-## A Final Note
-
-Thank you for taking time to contribute. We really appreciate your help.  
-![](https://media0.giphy.com/media/JVdF14CQQH7gs/200w.gif?fingerprint=c94812d05a01dbda764d6c7345b4781b)
 
 ---
 
