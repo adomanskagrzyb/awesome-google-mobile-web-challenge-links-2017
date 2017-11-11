@@ -3,7 +3,7 @@ Thank you for taking time to contribute. We really appreciate your help.
 
 # Contribution Guidelines
 
-Awesome lists are a curation, not a collection. We want to make it easier for students to find additional learning resources in the context of this scholarship. Quality matters and not quantity.This is why we can't accept every submission. However, we're always open for feedback to ensure a certain level awesomeness ;) 
+Awesome lists are a curation, not a collection. We want to make it easier for students to find additional learning resources in the context of this scholarship. Quality matters and not quantity.This is why we can't accept every submission. However, we're always open for feedback to ensure a certain level awesomeness :wink:
 
 but **what is awesome ?**
 
@@ -20,8 +20,8 @@ Since the selection process is community-driven, you'll get GitHub reactions fro
 
 ## Contributing
 
-Please submit a pull request or create an issue to add something to the list.  
-**Submissions via pull requests are highly recommended. It may be daunting if you're new to Git and/or Github. But the use of this tools are important and useful skills for any developer. Need help getting started ? Click here**
+Please [submit a pull request](#how-to-submit-a-pull-request) or [create an issue](#how-to-create-an-issue) to add something to the list.  
+**Submissions via pull requests are highly recommended. It may be daunting if you're new to Git and/or Github. But the use of this tools are important and useful skills for any developer. Need help getting started ? [Click here](#getting-started-with-git-and-github)**
 
 ### Quality Standards for Issues and PRs
 
@@ -30,13 +30,13 @@ Please submit a pull request or create an issue to add something to the list.
 - Check for proper spelling and grammar
 - Briefly write a description and why it should be added to the list
 
-### How to create an Issue
+## How to create an Issue
 
 - Proceed to the "Issues" tab in the top menu
 - Use the comment field for your submission
 - Apply the label `Submission` to issue
 
-### How to submit a Pull Request
+## How to submit a Pull Request
 
 1. Create a personal fork of the project on Github via the button on the top right.
 
@@ -61,14 +61,14 @@ git push master
 
 ---
 
-### Getting started with Git and Github
+#### Getting started with Git and Github
 
 - Udacity Course: [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 - Udacity Course:  [Writing READMEs - Udacity course](https://www.udacity.com/course/writing-readmes--ud777)
 - Fun and Interactive GitHub Challenge: [Got 15 minutes and want to learn Git?](https://try.github.io/levels/1/challenges/1)
 - [Git - The simple guide](http://rogerdudler.github.io/git-guide/)
 
-### Further Reading
+#### Further Reading
 
 - [How to write the perfect pull request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
 - [How to Write a Git Commit Message - The seven rules for a great commit message](http://chris.beams.io/posts/git-commit/#seven-rules)
