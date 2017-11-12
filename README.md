@@ -42,9 +42,22 @@ This repository is divided into subfolders full of resources for each lesson and
 ## Thanks to contributors
 
 * [Alexander Luna](https://github.com/Mycroft1891)
+* [Alexandru Fulop](https://github.com/alexandrufulop)
 * [Aman Ghebreweldi](https://github.com/Agheb)
 * [Anna Domańska-Grzyb](https://github.com/DomanskaGrzyb)
 * [Bogdan Covrig](https://github.com/bogdaaamn)
+* [Danny Callaghan](https://github.com/dannycallaghan)
+* [Iulia Voicu](https://github.com/Sugahzor)
 * [Jeff Vaes](https://github.com/jvaes)
 * [Miguel Dönicke](https://github.com/Haitec)
+* [Moumen Soliman](https://github.com/moumen-soliman)
 * [Ovidiu Voicu](https://github.com/odv)
+* [Sekab](https://github.com/amrtaher1234)
+* [Szoupi](https://github.com/szoupi)
+* [Vittorio](https://github.com/vee-mo)
+
+### License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, Anna Domańska-Grzyb has waived all copyright and related or neighboring rights to this work.
