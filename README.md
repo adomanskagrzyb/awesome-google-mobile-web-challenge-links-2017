@@ -7,15 +7,17 @@
 
 ## Awesome Google Developer Challenge: Mobile Web Specialist 2017/2018
 
-A curated list of awesome resources for recipients of the [Google Developer Challenge Scholarship](https://www.udacity.com/google-scholarships) 2017/2018
-Inspired by [awesome lists](https://github.com/sindresorhus/awesome)
-### Contribution
+A curated list of awesome resources for recipients of the [Google Developer Challenge Scholarship](https://www.udacity.com/google-scholarships) 2017/2018  
+Inspired by [awesome lists](https://github.com/sindresorhus/awesome)  
+
+**Please note this repo is intended for the Web Developer Intermediate Track**
+
+### How to Contribute
 
 Feedback and contributions are always welcome and appreciated.
 You can contribute interesting links to articles, presentations, videos, podcasts etc that might be helpful for our community.
 
-
-**Please note this repo is intended for the Web Developer Intermediate Track**
+[Before you start: Read our Guidelines](contributing.md)
 
 ### Just getting started?
 
