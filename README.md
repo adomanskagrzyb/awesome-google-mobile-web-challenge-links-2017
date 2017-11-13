@@ -5,7 +5,8 @@
   <br>
 </p>
 
-## Awesome Google Developer Challenge: Mobile Web Specialist 2017/2018
+## Awesome Google Developer Challenge: Mobile Web Specialist 2017/2018 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome resources for recipients of the [Google Developer Challenge Scholarship](https://www.udacity.com/google-scholarships) 2017/2018  
 Inspired by [awesome lists](https://github.com/sindresorhus/awesome)  
