@@ -21,13 +21,13 @@ If some of the professional developer-fu in lesson 8 was new to you, we hope the
 In order to transpile ES6 syntax to ES5 using Babel you will need Node and NPM.
 Once you have both you will have to add these 2 packages to your project "package.json" file:
 
-``
-npm install babel-cli @babel/preset-env  --save-dev
-``
+```bash
+> npm install babel-cli @babel/preset-env  --save-dev
+```
 
 Inside your project you will also have to add a ".bablerc" file.
 
-```json
+```javascript
 {
   "presets": ["@babel/env"]
 }
@@ -41,7 +41,7 @@ If you pass no options to env it essentially works like es2015, es2016, es2017 a
 
 You can also configure it to support specific browser version.
 
-```json
+```javascript
 {
   "presets": [
     ["@babel/env", {
@@ -55,7 +55,7 @@ You can also configure it to support specific browser version.
 
 Finally to do the actual transpaling you have to add a build script in your "package.json" file:
 
-```
+```javascript
 "scripts": {
 	"build": "babel ES6_Directory_Name -d ES5_Output_Directory"
 },
