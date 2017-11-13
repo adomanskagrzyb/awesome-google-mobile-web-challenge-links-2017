@@ -29,6 +29,7 @@ Jake Archibald shares the future of the web app model, with Foreign Fetch, Strea
 * [Progressive Web Apps (PWA)](https://www.writesoftware.org/course/progressive-web-apps)
 * [The modern Javascript Tutorial](https://javascript.info/)
 * [Google Codelabs - Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/index.html?index=..%2F..%2Fgdd17#0)
+* [Egghead Video Courses](https://egghead.io)
 
 ## Questions
 
