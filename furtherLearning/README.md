@@ -7,6 +7,8 @@ That was a great adventure, thank you for being a part of it! If you are interes
 ## Books
 
 * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
+* [The node Beginner books](https://www.nodebeginner.org/)
+* [Eloquent JavaScript: Second Edition](http://eloquentjavascript.net/)
 
 ## Videos
 
@@ -14,26 +16,26 @@ That was a great adventure, thank you for being a part of it! If you are interes
 Jake Archibald shares the future of the web app model, with Foreign Fetch, Streams and more.
 * [Philip Roberts: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ1)
 
+## Youtube Channels
+
+* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/playlists)
+* [Computerphile](https://www.youtube.com/user/Computerphile)
+
 ## Courses
 
-* [Intro to AJAX (Udacity)](https://www.udacity.com/course/intro-to-ajax--ud110)
 * [Free Code Camp](https://www.freecodecamp.org)
 * [Codecademy: JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 * [W3Schools: Javascript Tutorials](https://www.w3schools.com/js/)
+* [Progressive Web Apps (PWA)](https://www.writesoftware.org/course/progressive-web-apps)
+* [The modern Javascript Tutorial](https://javascript.info/)
+* [Google Codelabs - Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/index.html?index=..%2F..%2Fgdd17#0)
 
 ## Questions
 
-* [Quora](https://www.quora.com/What-is-callback-hell)
-
-
-## Tutorials
-
-* [JavaScript Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
-* [Google Codelabs - Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/index.html?index=..%2F..%2Fgdd17#0)
-
+* [What is callback hell](https://www.quora.com/What-is-callback-hell)
 
 ## Articles
 
-* [Master the JavaScript Interview: What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
-* [Javascript Promise Chaining & Error Handling](https://dev.to/azizhk110/javascript-promise-chaining--error-handling?utm_content=buffer50085&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
-* [Understand JavaScript Callback Functions](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
+* [Progressive Web Apps: Fail or Not](https://simpleprogrammer.com/2017/11/08/progressive-web-applications/)
+* [Medium: Useful resources for beginners to Front & Back end development](https://medium.com/@emregozel/useful-resources-for-beginners-to-front-end-development-2b110499628e)
+* [Accelerated Mobile Pages: AMP](https://www.ampproject.org/)
