@@ -6,9 +6,10 @@
 </p>
 
 ## Awesome Google Developer Challenge: Mobile Web Specialist 2017/2018
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome resources for recipients of the [Google Developer Challenge Scholarship](https://www.udacity.com/google-scholarships) 2017/2018  
-Inspired by [awesome lists](https://github.com/sindresorhus/awesome)  
+A curated list of awesome resources for recipients of the [Google Developer Challenge Scholarship](https://www.udacity.com/google-scholarships) 2017/2018
+Inspired by [awesome lists](https://github.com/sindresorhus/awesome)
 
 **Please note this repo is intended for the Web Developer Intermediate Track**
 
@@ -45,6 +46,7 @@ This repository is divided into subfolders full of resources for each lesson and
 * [Alexandru Fulop](https://github.com/alexandrufulop)
 * [Aman Ghebreweldi](https://github.com/Agheb)
 * [Anna Domańska-Grzyb](https://github.com/DomanskaGrzyb)
+* [Berkan Cetinkaya](https://github.com/Berc21)
 * [Bogdan Covrig](https://github.com/bogdaaamn)
 * [Danny Callaghan](https://github.com/dannycallaghan)
 * [Iulia Voicu](https://github.com/Sugahzor)
@@ -53,8 +55,10 @@ This repository is divided into subfolders full of resources for each lesson and
 * [Moumen Soliman](https://github.com/moumen-soliman)
 * [Ovidiu Voicu](https://github.com/odv)
 * [Ruslan Posevkin](https://github.com/RusPosevkin)
+* [Salama Ashoush](https://github.com/salamaashoush)
 * [Sekab](https://github.com/amrtaher1234)
 * [Szoupi](https://github.com/szoupi)
+* [Tomasz Myśliwiec](https://github.com/tomekmy)
 * [Vittorio](https://github.com/vee-mo)
 
 ### License
