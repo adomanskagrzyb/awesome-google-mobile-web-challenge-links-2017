@@ -20,6 +20,10 @@ Jake Archibald shares the future of the web app model, with Foreign Fetch, Strea
 
 * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/playlists)
 * [Computerphile](https://www.youtube.com/user/Computerphile)
+* [Google Developer](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
+* [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+* [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+* [MIT](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
 
 ## Courses
 
