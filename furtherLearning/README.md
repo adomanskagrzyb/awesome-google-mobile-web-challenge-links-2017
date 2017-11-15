@@ -35,6 +35,7 @@ __(Please add only advanced topics here. For beginner topics go here: [introduct
 * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
 * [The node Beginner books](https://www.nodebeginner.org/)
 * [Eloquent JavaScript: Second Edition](http://eloquentjavascript.net/)
+* [One free daily ebook](https://www.packtpub.com/packt/offers/free-learning) by Pakt
 
 ### Videos
 
@@ -44,7 +45,7 @@ Jake Archibald shares the future of the web app model, with Foreign Fetch, Strea
 * [Jafar Husain: Async Programming in ES7](https://www.youtube.com/watch?v=lil4YCCXRYc)
 
 
-### Courses
+## Courses
 
 * [Free Code Camp](https://www.freecodecamp.org)
 * [Progressive Web Apps (PWA)](https://www.writesoftware.org/course/progressive-web-apps)
