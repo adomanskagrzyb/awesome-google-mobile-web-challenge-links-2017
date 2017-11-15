@@ -9,7 +9,7 @@ We have added some quick links to the forums and also the forum thread to learn 
 If you have questions regarding the course itself please refer to the ```Ask me Anything``` (AMA or Q&A) sessions or the FAQ in the Udacity Forum:
 
 - [Ask me Anything PDF (Google Drive)](https://drive.google.com/file/d/1dDWySCg16khjWeaJM9WMnPrFJOrrRL1e/view?usp=sharing)
-- [FAQ](https://discussions.udacity.com/t/frequently-asked-questions-most-popular-ones-includes-official-answers/430201) about Udacity and scholarship. 
+- [FAQ](https://discussions.udacity.com/t/frequently-asked-questions-most-popular-ones-includes-official-answers/430201) about Udacity and scholarship.
 
 ## Thinks to know before starting the course
 
@@ -28,3 +28,13 @@ If you have questions regarding the course itself please refer to the ```Ask me 
 * [Forum Link (Only for accepted students)](https://forums.udacity.com/?forum_path=c/standalone-courses/ud899-emea)
 * [How to access the Course Slack Channel](https://discussions.udacity.com/t/how-to-access-the-udacity-slack-channels-workspace-for-this-course/412207/26)
 * [Google Developer: Web Fundamentals (An Overview)](https://developers.google.com/web/fundamentals/)
+* [Resources for Building Beautiful Websites with HTML5, CSS3 and JavaScript](http://codingheroes.io/resources/)
+
+
+## Courses
+* [Codecademy: Web development (HTML & CSS)](https://www.codecademy.com/catalog/subject/web-development)
+* [Codecademy: JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+* [W3Schools: Javascript Tutorials](https://www.w3schools.com/js/)
+* [CSS: fluke out](http://flukeout.github.io/)
+* [CSS: Flex box froggy](http://flexboxfroggy.com/)
+* [CSS: Grid Garden](http://cssgridgarden.com)
