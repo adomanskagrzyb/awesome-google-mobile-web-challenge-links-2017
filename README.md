@@ -54,6 +54,7 @@ This repository is divided into subfolders full of resources for each lesson and
 * [Miguel Dönicke](https://github.com/Haitec)
 * [Moumen Soliman](https://github.com/moumen-soliman)
 * [Ovidiu Voicu](https://github.com/odv)
+* [Ruslan Posevkin](https://github.com/RusPosevkin)
 * [Salama Ashoush](https://github.com/salamaashoush)
 * [Sekab](https://github.com/amrtaher1234)
 * [Szoupi](https://github.com/szoupi)

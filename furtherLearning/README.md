@@ -51,6 +51,8 @@ Jake Archibald shares the future of the web app model, with Foreign Fetch, Strea
 * [The modern Javascript Tutorial](https://javascript.info/)
 * [Google Codelabs - Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/index.html?index=..%2F..%2Fgdd17#0)
 * [Hackr.io: Programming Courses & Tutorials](https://hackr.io/)
+* [Getting Started with Redux Course](https://egghead.io/courses/getting-started-with-redux)
+* [Laracasts: ES2015 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
 
 
 ### Articles
@@ -69,3 +71,12 @@ Jake Archibald shares the future of the web app model, with Foreign Fetch, Strea
 * [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 * [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 * [MIT](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
+* [Accelerated Mobile Pages: AMP](https://www.ampproject.org/)
+
+## Tools
+
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+
+> Lighthouse is an open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. It has audits for performance, accessibility, progressive web apps, and more.
+
+> **_Google developers quote_**
