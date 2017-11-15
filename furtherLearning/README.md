@@ -9,6 +9,7 @@ That was a great adventure, thank you for being a part of it! If you are interes
 * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
 * [The node Beginner books](https://www.nodebeginner.org/)
 * [Eloquent JavaScript: Second Edition](http://eloquentjavascript.net/)
+* [One free daily ebook](https://www.packtpub.com/packt/offers/free-learning) by Pakt
 
 ## Videos
 
