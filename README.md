@@ -8,17 +8,17 @@
 ## Awesome Google Developer Challenge: Mobile Web Specialist 2017/2018
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome resources for recipients of the [Google Developer Challenge Scholarship](https://www.udacity.com/google-scholarships) 2017/2018
-Inspired by [awesome lists](https://github.com/sindresorhus/awesome)
+A curated list of awesome resources for recipients of the [Google Developer Challenge Scholarship](https://www.udacity.com/google-scholarships) 2017/2018.
+Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 
-**Please note this repo is intended for the Web Developer Intermediate Track**
+**Please note this repository is intended for the Web Developer Intermediate Track**
 
-### How to Contribute
+### How to contribute
 
 Feedback and contributions are always welcome and appreciated.
-You can contribute interesting links to articles, presentations, videos, podcasts etc that might be helpful for our community.
+You can contribute interesting links that might be helpful for our community, for example articles, presentations, videos, podcasts, etc.
 
-[Before you start: Read our Guidelines](contributing.md)
+[Before you start: Read our guidelines](contributing.md)
 
 ### Just getting started?
 
@@ -38,7 +38,7 @@ This repository is divided into subfolders full of resources for each lesson and
 * [Lesson 7: Built-ins](built-ins/README.md)
 * [Lesson 8: professional-developer-fu](professional-developer-fu/README.md)
 * [Further learning](furtherLearning/README.md)
-* [Q&A Sessions](ama-sessions/README.md)
+* [Q&A sessions](ama-sessions/README.md)
 
 ## Thanks to contributors
 
