@@ -20,8 +20,8 @@ Jake Archibald shares the future of the web app model, with Foreign Fetch, Strea
 * [Free Code Camp](https://www.freecodecamp.org)
 * [Codecademy: JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 * [W3Schools: Javascript Tutorials](https://www.w3schools.com/js/)
-* [Getting Started with JavaScript for Web Development](https://scotch.io/courses/getting-started-with-javascript)
-* [10 Need to Know JavaScript Concepts](https://scotch.io/courses/10-need-to-know-javascript-concepts)
+* [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern/)
+
 
 ## Questions
 
