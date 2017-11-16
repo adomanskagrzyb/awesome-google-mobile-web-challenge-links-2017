@@ -19,6 +19,9 @@ If some of the topics in lesson 3 were new to you, we hope the resource links he
 * [JavaScript Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
 * [Jake Archibald: The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
 
+## Libraries
+
+* [Google Workbox Libraries](https://developers.google.com/web/tools/workbox/)
 
 ## Overview:
 The service worker handles the requests the user makes. It can send the request straight to the server (cloud) or first try to load cached data while requesting new data from the server.
