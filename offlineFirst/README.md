@@ -1,17 +1,17 @@
 # Lesson 2: Offline First
 
-If some of the topics in the offline first lesson were new to you, we hope the resource links here will help you:
+If some of the topics in the offline first lesson were new to you, we hope the resource links will help.
 
 [<= GO BACK ](../README.md)
 
 > Because internet connections can be flakey or non-existent,
-> you need to consider offline first: write your app as if it has no internet connection.
-> Once your app works offline, add whatever network functionality you need for your app to do more when it’s online.
+> you need to consider offline first: make your app work even if there is no internet connection.
+> Once your app works offline, add whatever network functionality you need for your app to do more when the user is online.
 > Read on for tips on implementing your offline-enabled app.
 
 > *_Google Developer Quote_*
 
-## Resource Links
+## Resource links
 
 * [offlinefirst.org](http://offlinefirst.org/)
 * [Google: Offline First](https://developer.chrome.com/apps/offline_apps)

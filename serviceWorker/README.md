@@ -2,10 +2,9 @@
 
 [<= GO BACK ](../README.md)
 
-If some of the topics in lesson 3 were new to you, we hope the resource links here will help you:
+If some of the topics in lesson 3 were new to you, we hope the resource links will help.
 
-
-## Resource Links
+## Resource links
 
 * [Firefox: Service Workers (explained)](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
 * [Google Web Fundamentals: Overview](https://developers.google.com/web/fundamentals/primers/service-workers)
@@ -20,13 +19,12 @@ If some of the topics in lesson 3 were new to you, we hope the resource links he
 * [Jake Archibald: The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
 
 
-## Overview:
-The service worker handles the requests the user makes. It can send the request straight to the server (cloud) or first try to load cached data while requesting new data from the server.
+## Overview
+The service worker intercepts all requests the user makes. It can send the request straight to the server or first try to load cached data while requesting new data from the server.
 
 ![service worker](https://www.smashingmagazine.com/wp-content/uploads/2016/11/service-worker-offline-large-opt.jpg)
 
-
-## Creating cache and saving information in the cache:
+## Creating cache and saving information in the cache
 
 ```Javascript
 caches.open(‘cache_store_name’).then(function(cache) {
@@ -34,14 +32,14 @@ caches.open(‘cache_store_name’).then(function(cache) {
 })
 ```
 
-It is possible to use these 3 ways to store information in cache:
+It is possible to use these three ways to store information in cache:
 
-* cache.add(request): stores single request
-* cache.addAll(request): stores an array of requests
-* cache.put(request, response): stores a single request and its response
+* `cache.add(request)`: stores single request
+* `cache.addAll(request)`: stores an array of requests
+* `cache.put(request, response)`: stores a single request and its response
 
 
-## Fetch cached data and non-cached data
+## Fetch cached and non-cached data
 
 ```Javascript
 caches.match(event.request).then(function(response) {
@@ -51,11 +49,11 @@ caches.match(event.request).then(function(response) {
 
 It is possible to use these 2 ways to fetch cached data:
 
-* caches.match(cache_name): Matches a single request and return a promise
-* caches.matchAll(cache_name): Matches an array and returns a promise
+* `caches.match(cache_name)`: Matches a single request and return a promise
+* `caches.matchAll(cache_name)`: Matches an array and returns a promise
 
 
-## Delete Cache
+## Delete cache
 
 ```Javascript
 caches.keys().then(function(cacheNames) {
@@ -69,6 +67,6 @@ caches.keys().then(function(cacheNames) {
 })
 ```
 
-* caches.delete(cache_name): finds cache with given name and return a promise
-* caches.keys(): returns a promise with an array of cache keys
+* `caches.delete(cache_name)`: finds cache with given name and return a promise
+* `caches.keys()`: returns a promise with an array of cache keys
 

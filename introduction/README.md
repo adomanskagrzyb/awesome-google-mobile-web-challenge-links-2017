@@ -1,17 +1,17 @@
 # Lesson 1: Introduction
 
-We have added some quick links to the forums and also the forum thread to learn how to join the slack channel in case you are having trouble joining:
+We have added some quick links to the forums and also the forum thread to learn how to join the Slack channel in case you are having trouble joining:
 
 [<= GO BACK ](../README.md)
 
-## Questions about the course ?
+## Questions about the course?
 
 If you have questions regarding the course itself please refer to the ```Ask me Anything``` (AMA or Q&A) sessions or the FAQ in the Udacity Forum:
 
 - [Ask me Anything PDF (Google Drive)](https://drive.google.com/file/d/1dDWySCg16khjWeaJM9WMnPrFJOrrRL1e/view?usp=sharing)
 - [FAQ](https://discussions.udacity.com/t/frequently-asked-questions-most-popular-ones-includes-official-answers/430201) about Udacity and scholarship.
 
-## Thinks to know before starting the course
+## Things to know before starting the course
 
 - [Getting Started and Prerequisites](https://discussions.udacity.com/t/getting-started-and-prerequisites/418485?u=haitec) (Udacity Discussion Forum)
 
@@ -23,7 +23,7 @@ If you have questions regarding the course itself please refer to the ```Ask me 
 * [Understand JavaScript Callback Functions](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
 * [Intro to AJAX (Udacity)](https://www.udacity.com/course/intro-to-ajax--ud110)
 
-## Resource Links
+## Resource links
 
 * [Forum Link (Only for accepted students)](https://forums.udacity.com/?forum_path=c/standalone-courses/ud899-emea)
 * [How to access the Course Slack Channel](https://discussions.udacity.com/t/how-to-access-the-udacity-slack-channels-workspace-for-this-course/412207/26)
