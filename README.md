@@ -13,14 +13,14 @@ Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 
 **Please note this repository is intended for the Web Developer Intermediate Track**
 
-### How to contribute
+### How to Contribute
 
 Feedback and contributions are always welcome and appreciated.
 You can contribute interesting links that might be helpful for our community, for example articles, presentations, videos, podcasts, etc.
 
 [Before you start: Read our guidelines](contributing.md)
 
-### Just getting started?
+### Just Getting Started
 
 - [Getting Started and Prerequisites](https://discussions.udacity.com/t/getting-started-and-prerequisites/418485?u=haitec) (Udacity Discussion Forum)
 - [Video: Jake Archibald about progressive apps](https://www.youtube.com/watch?v=cmGr0RszHc8) (from Google I/O 2016)
@@ -40,7 +40,7 @@ This repository is divided into subfolders full of resources for each lesson and
 * [Further learning](furtherLearning/README.md)
 * [Q&A sessions](ama-sessions/README.md)
 
-## Thanks to contributors
+## Thanks to our Contributors
 
 * [Alexander Luna](https://github.com/Mycroft1891)
 * [Alexandru Fulop](https://github.com/alexandrufulop)
