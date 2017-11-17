@@ -21,7 +21,7 @@ If some of the topics in lesson 3 were new to you, we hope the resource links he
 
 ## Libraries
 
-* [Google Workbox Libraries](https://developers.google.com/web/tools/workbox/)
+* [Google Workbox Libraries](https://developers.google.com/web/tools/workbox/) Collection of tools and helpers for working with Service Worker
 
 ## Overview:
 The service worker handles the requests the user makes. It can send the request straight to the server (cloud) or first try to load cached data while requesting new data from the server.
