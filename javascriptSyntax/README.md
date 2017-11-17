@@ -15,6 +15,7 @@ If some of the syntax in lesson 5 were new to you, we hope the resource links he
 * [MDN: spread (iterate simple array)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator)
 * [MDN: rest (grouping values into 1 array)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator)
 * ['let' vs 'const' and why you shouldn't use 'var'](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75)
+* [Understanding let and const in JavaScript ES6](http://www.javascriptkit.com/javatutors/javascript-es6-let-const.shtml)
 * [MDN: for..of (the new way of iterating arrays)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
 * [Google Developers: Promises](https://developers.google.com/web/fundamentals/primers/promises)
 * [MDN: Symbols](https://developer.mozilla.org/en-US/docs/Glossary/Symbol)
