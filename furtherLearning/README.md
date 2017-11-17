@@ -81,3 +81,6 @@ Jake Archibald shares the future of the web app model, with Foreign Fetch, Strea
 > Lighthouse is an open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. It has audits for performance, accessibility, progressive web apps, and more.
 
 > **_Google developers quote_**
+
+* [A collection of service worker generation tools from **Pinterest**: GitHub Repository](https://github.com/pinterest/service-workers)
+
