@@ -18,6 +18,9 @@ If some of the topics in lesson 3 were new to you, we hope the resource links wi
 * [JavaScript Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
 * [Jake Archibald: The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
 
+## Libraries
+
+* [Google Workbox Libraries](https://developers.google.com/web/tools/workbox/) Collection of tools and helpers for working with Service Worker
 
 ## Overview
 The service worker intercepts all requests the user makes. It can send the request straight to the server or first try to load cached data while requesting new data from the server.
