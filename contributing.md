@@ -64,7 +64,7 @@ git push master
 7. Back to GitHub, create a pull request from your fork to this repository.
 
 ## A final note
-If your submission was successful, feel free to add your name in alphabetical order to the [contributors list](README.md#thanks-to-contributors)
+If your submission was successful, feel free to add your name in alphabetical order to the [contributors list](README.md#thanks-to-our-contributors)
 
 ---
 
