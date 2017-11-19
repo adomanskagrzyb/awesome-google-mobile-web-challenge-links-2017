@@ -1,38 +1,38 @@
 # Lesson 4: IndexedDB & Caching
 
-If some of the topics in lesson 4 were new to you, we hope the resource links here will help you:
+If some of the topics in lesson 4 were new to you, we hope the resource links will help.
 
 [<= GO BACK ](../README.md)
 
-> IndexedDB is an API to store data (structured) uncluding files and [blobs](https://en.wikipedia.org/wiki/Binary_large_object).
+> IndexedDB is an API to store data (structured) including files and [blobs](https://en.wikipedia.org/wiki/Binary_large_object).
 > The API allows you to create indexes to perform efficient searches of the stored data.
 > Web Storage allows to store small amounts of data but is useless for larger amounts of data.
 > IndexedDB provides a solution to this problem.
 
 > *_Rewritten for clarity from MDN_*
 
-## Resource Links
+## Resource links
 
 * [IDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 * [IDBObject Store](https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore)
 * [IDB: Put (save object)](https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/put)
 
 
-## Video Links
+## Video links
 
 * [Google Developer Working with IndexedDB](https://www.youtube.com/watch?v=vCumk1sXHcY)
 
-## Overview:
+## Overview
 
-Throughout the course, we make use of the [idb package](https://www.npmjs.com/package/idb) to use promises rather than callbacks. In order to use IndexedDB (idb package) you have to import it first:
+Throughout the course, we make use of the [idb package](https://www.npmjs.com/package/idb) to use promises rather than callbacks. In order to use IndexedDB (`idb`` package) you have to import it first:
 
 ```Javascript
 import idb from 'idb';
 ```
 
-When you use the ```idb.open()``` method it returns a promise that resolves to a DB which gives you access to the database. Once you create the database you can create an objectStore to store key/value pairs.
+When you use the `idb.open()` method it returns a promise that resolves to a DB and gives you access to that database. Once you create the database you can create an objectStore to store key/value pairs.
 
-You can also create an index just by referencing your objectStore and calling the ```createIndex(indexName, keyPath)``` method.
+You can also create an index just by referencing your objectStore and calling the `createIndex(indexName, keyPath)` method.
 
 ```Javascript
 var dbPromise = idb.open('database_name', 1, function(upgradeDb) {
@@ -46,7 +46,7 @@ var dbPromise = idb.open('database_name', 1, function(upgradeDb) {
 
 ### Read & Write to IndexedDB
 
-Every time you want to access or write to the database you created, you have to open a transaction using ```transaction('store_name')``` or ```transaction('store_name', 'readwrite')```  if you want to write to your database. After that you just reference your objectStore and use ```put({})``` to store something:
+Every time you want to access or write to the database you created, you have to open a transaction using `transaction('store_name')` or `transaction('store_name', 'readwrite')`  if you want to write to your database. After that you reference your objectStore and use `put({})` to store data:
 
 ```Javascript
 dbPromise.then(function(db) {
@@ -65,7 +65,7 @@ dbPromise.then(function(db) {
 });
 ```
 
-To get items you do something similar:
+To get data from the database, you do something similar:
 
 ```Javascript
 dbPromise.then(function(db) {
