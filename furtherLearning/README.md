@@ -80,4 +80,10 @@ Jake Archibald shares the future of the web app model, with Foreign Fetch, Strea
 
 > Lighthouse is an open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. It has audits for performance, accessibility, progressive web apps, and more.
 
+## Practise
+
+* [Codewars](https://codewars.com/)
+
+> Codewars is a coding platform supporting 30+ different programming languages. Through gamification, users are incentified to solve challenges provided by the community. The challenges can be lightweight to introduce new languages or difficult to strengthen your skills.
+
 > **_Google developers quote_**
