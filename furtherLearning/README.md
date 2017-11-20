@@ -87,3 +87,6 @@ Jake Archibald shares the future of the web app model, with Foreign Fetch, Strea
 > Codewars is a coding platform supporting 30+ different programming languages. Through gamification, users are incentified to solve challenges provided by the community. The challenges can be lightweight to introduce new languages or difficult to strengthen your skills.
 
 > **_Google developers quote_**
+
+* [A collection of service worker generation tools from **Pinterest**: GitHub Repository](https://github.com/pinterest/service-workers)
+
