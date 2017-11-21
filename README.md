@@ -42,6 +42,7 @@ This repository is divided into subfolders full of resources for each lesson and
 
 ## Thanks to our Contributors
 
+* [Abdelrahman Awad](https://github.com/logaretm)
 * [Alexander Luna](https://github.com/Mycroft1891)
 * [Alexandru Fulop](https://github.com/alexandrufulop)
 * [Aman Ghebreweldi](https://github.com/Agheb)

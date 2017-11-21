@@ -17,6 +17,7 @@ If some of the topics in lesson 3 were new to you, we hope the resource links wi
 * [Mozilla Service Workers examples](https://serviceworke.rs/)
 * [JavaScript Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
 * [Jake Archibald: The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
+* [Service Workers 101](https://github.com/delapuente/service-workers-101)
 
 ## Libraries
 
