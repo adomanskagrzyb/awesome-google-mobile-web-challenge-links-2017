@@ -29,6 +29,30 @@ The service worker intercepts all requests the user makes. It can send the reque
 
 ![service worker](https://www.smashingmagazine.com/wp-content/uploads/2016/11/service-worker-offline-large-opt.jpg)
 
+## Registering a service worker
+
+```javascript
+if(navigator.serviceWorker) {
+    navigator.serviceWorker.register('path-to-sw')
+    .then(function(registeration) {
+        // console.log('Service worker successfully registered')
+    })
+    .catch(function(error) {
+        // console.log('Service worker failed to register')
+    });
+}
+```
+
+The following properties are available on the registration object and represent its life cycle:
+
+* `registration.installing`: either null or ServiceWorker object.
+* `registration.waiting`: either null or ServiceWorker object.
+* `registration.active`: either null or ServiceWorker object with state 'activated'.
+
+Note: `registration.active === navigator.serviceWorker.controller` except if force refresh is used: [Ctrl] + Refresh.
+
+![ServiceWorkerContainer](https://i.imgur.com/KZp0hF6.jpg "ServiceWorkerContainer")
+
 ## Creating cache and saving information in the cache
 
 ```Javascript
@@ -74,4 +98,35 @@ caches.keys().then(function(cacheNames) {
 
 * `caches.delete(cache_name)`: finds cache with given name and return a promise
 * `caches.keys()`: returns a promise with an array of cache keys
+
+![CacheStorage](https://i.imgur.com/xJnCLzn.jpg "CacheStorage")
+
+## Service worker events
+
+```Javascript
+self.addEventListener('install', function(event) {
+    event.waitUntil(
+        // Promise
+    )
+})
+
+self.addEventListener('activate', function(event) {
+    event.waitUntil(
+        // Promise
+    )
+})
+
+self.addEventListener('fetch', function(event) {
+    event.respondWith(
+        // Response
+        // you can use event.request to match from caches or fetch from network
+    )
+})
+
+self.addEventListener('message', function(event) {
+    // event.data
+})
+```
+
+![ServiceWorkerGlobalScope](https://i.imgur.com/hb1GKjb.jpg "ServiceWorkerGlobalScope")
 
