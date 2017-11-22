@@ -36,6 +36,7 @@ __(Please add only advanced topics here. For beginner topics go here: [introduct
 * [The node Beginner books](https://www.nodebeginner.org/)
 * [Eloquent JavaScript: Second Edition](http://eloquentjavascript.net/)
 * [One free daily ebook](https://www.packtpub.com/packt/offers/free-learning) by Pakt
+* [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) by Nicholas C. Zakas
 
 ### Videos
 
