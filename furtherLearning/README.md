@@ -49,6 +49,12 @@ Jake Archibald shares the future of the web app model, with Foreign Fetch, Strea
 ## Courses
 
 * [Free Code Camp](https://www.freecodecamp.org)
+
+* [Codecademy: JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+* [W3Schools: Javascript Tutorials](https://www.w3schools.com/js/)
+* [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern/)
+
+
 * [Progressive Web Apps (PWA)](https://www.writesoftware.org/course/progressive-web-apps)
 * [The modern Javascript Tutorial](https://javascript.info/)
 * [Google Codelabs - Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/index.html?index=..%2F..%2Fgdd17#0)
@@ -58,6 +64,7 @@ Jake Archibald shares the future of the web app model, with Foreign Fetch, Strea
 
 
 ### Articles
+
 
 * [Progressive Web Apps: Fail or Not](https://simpleprogrammer.com/2017/11/08/progressive-web-applications/)
 * [Medium: Useful resources for beginners to Front & Back end development](https://medium.com/@emregozel/useful-resources-for-beginners-to-front-end-development-2b110499628e)
