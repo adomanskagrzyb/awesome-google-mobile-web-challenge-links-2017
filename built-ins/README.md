@@ -1,10 +1,10 @@
 # Lesson 7: built-ins
 
-If some of the built-ins in lesson 7 were new to you, we hope the resource links here will help you:
+If some of the built-ins in lesson 7 were new to you, we hope the following links will help you.
 
 [<= GO BACK ](../README.md)
 
-## Resource Links
+## Resource links
 
 * [Symbols: unique and immutable data type often used to identify object properties.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol)
 * [Symbol Iterator: Read more below (Iterable & Iterator)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/iterator)

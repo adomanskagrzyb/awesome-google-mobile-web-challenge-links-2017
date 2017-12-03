@@ -8,19 +8,19 @@
 ## Awesome Google Developer Challenge: Mobile Web Specialist 2017/2018
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome resources for recipients of the [Google Developer Challenge Scholarship](https://www.udacity.com/google-scholarships) 2017/2018
-Inspired by [awesome lists](https://github.com/sindresorhus/awesome)
+A curated list of awesome resources for recipients of the [Google Developer Challenge Scholarship](https://www.udacity.com/google-scholarships) 2017/2018.
+Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 
-**Please note this repo is intended for the Web Developer Intermediate Track**
+**Please note this repository is intended for the Web Developer Intermediate Track**
 
 ### How to Contribute
 
 Feedback and contributions are always welcome and appreciated.
-You can contribute interesting links to articles, presentations, videos, podcasts etc that might be helpful for our community.
+You can contribute interesting links that might be helpful for our community, for example articles, presentations, videos, podcasts, etc.
 
-[Before you start: Read our Guidelines](contributing.md)
+[Before you start: Read our guidelines](contributing.md)
 
-### Just getting started?
+### Just Getting Started
 
 - [Getting Started and Prerequisites](https://discussions.udacity.com/t/getting-started-and-prerequisites/418485?u=haitec) (Udacity Discussion Forum)
 - [Video: Jake Archibald about progressive apps](https://www.youtube.com/watch?v=cmGr0RszHc8) (from Google I/O 2016)
@@ -38,26 +38,36 @@ This repository is divided into subfolders full of resources for each lesson and
 * [Lesson 7: Built-ins](built-ins/README.md)
 * [Lesson 8: professional-developer-fu](professional-developer-fu/README.md)
 * [Further learning](furtherLearning/README.md)
-* [Q&A Sessions](ama-sessions/README.md)
+* [Q&A sessions](ama-sessions/README.md)
 
-## Thanks to contributors
+## Thanks to our Contributors
 
+* [Abdelrahman Awad](https://github.com/logaretm)
 * [Alexander Luna](https://github.com/Mycroft1891)
 * [Alexandru Fulop](https://github.com/alexandrufulop)
 * [Aman Ghebreweldi](https://github.com/Agheb)
 * [Anna Domańska-Grzyb](https://github.com/DomanskaGrzyb)
 * [Berkan Cetinkaya](https://github.com/Berc21)
 * [Bogdan Covrig](https://github.com/bogdaaamn)
+* [Carles Mata](https://github.com/cmmata)
+* [Constantine Shpikat](https://github.com/kshpikat)
+* [Daniel Steshenko](https://github.com/Dan-Ste)
 * [Danny Callaghan](https://github.com/dannycallaghan)
+* [dcfield](https://github.com/dcfield)
 * [Iulia Voicu](https://github.com/Sugahzor)
 * [Jeff Vaes](https://github.com/jvaes)
+* [Kitti L.](https://github.com/Kiaaz)
+* [Michael Gecht](https://github.com/mimischi)
 * [Miguel Dönicke](https://github.com/Haitec)
 * [Moumen Soliman](https://github.com/moumen-soliman)
 * [Ovidiu Voicu](https://github.com/odv)
 * [Ruslan Posevkin](https://github.com/RusPosevkin)
 * [Salama Ashoush](https://github.com/salamaashoush)
 * [Sekab](https://github.com/amrtaher1234)
+* [Simone Coletta](https://github.com/Collets)
+* [Stefan Euchenhofer](https://github.com/euchenhofer)
 * [Szoupi](https://github.com/szoupi)
+* [Thinh Tran](https://github.com/PewhProgrammer)
 * [Tomasz Myśliwiec](https://github.com/tomekmy)
 * [Vittorio](https://github.com/vee-mo)
 

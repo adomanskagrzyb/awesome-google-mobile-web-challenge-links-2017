@@ -42,6 +42,8 @@ __(Please add only advanced topics here. For beginner topics go here: [introduct
 * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
 * [The node Beginner books](https://www.nodebeginner.org/)
 * [Eloquent JavaScript: Second Edition](http://eloquentjavascript.net/)
+* [One free daily ebook](https://www.packtpub.com/packt/offers/free-learning) by Pakt
+* [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) by Nicholas C. Zakas
 
 ### Videos
 
@@ -52,7 +54,7 @@ Jake Archibald shares the future of the web app model, with Foreign Fetch, Strea
 * [JavaScript Tutorial For Beginners #29 - THIS Keyword](https://www.youtube.com/watch?v=yVdU2coJ1VQ)
 
 
-### Courses
+## Courses
 
 * [Free Code Camp](https://www.freecodecamp.org)
 * [Progressive Web Apps (PWA)](https://www.writesoftware.org/course/progressive-web-apps)
@@ -87,4 +89,13 @@ Jake Archibald shares the future of the web app model, with Foreign Fetch, Strea
 
 > Lighthouse is an open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. It has audits for performance, accessibility, progressive web apps, and more.
 
+## Practise
+
+* [Codewars](https://codewars.com/)
+
+> Codewars is a coding platform supporting 30+ different programming languages. Through gamification, users are incentified to solve challenges provided by the community. The challenges can be lightweight to introduce new languages or difficult to strengthen your skills.
+
 > **_Google developers quote_**
+
+* [A collection of service worker generation tools from **Pinterest**: GitHub Repository](https://github.com/pinterest/service-workers)
+
