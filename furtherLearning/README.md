@@ -24,6 +24,13 @@ __(Please add only advanced topics here. For beginner topics go here: [introduct
 * [Accelerated Mobile Pages: AMP](https://www.ampproject.org/)
 * [Advanced text formatting](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)
 * [HTML table advanced features and accessibility](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced)
+* [Github Education: The best developer tools, free for students](https://education.github.com/pack)
+* [The State of Offline In Web Applications (2017)](https://www.wegotrats.com/the-state-of-offline-in-web-applications-2017/)
+* [ATLASSIAN: What is Agile](https://www.atlassian.com/agile)
+* [Designing For A Browserless Web](https://www.smashingmagazine.com/2017/11/designing-for-a-browserless-web/)
+* [23 Development Tools for Boosting Website Performance](https://www.sitepoint.com/23-development-tools-boosting-website-performance/)
+* [4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them](https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/)
+* [Web Components VS Frameworks](https://medium.com/@oneeezy/frameworks-vs-web-components-9a7bd89da9d4)
 
 
 # <a name="javascript">Javascript</a>
@@ -42,6 +49,7 @@ __(Please add only advanced topics here. For beginner topics go here: [introduct
 Jake Archibald shares the future of the web app model, with Foreign Fetch, Streams and more.
 * [Philip Roberts: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ1)
 * [Jafar Husain: Async Programming in ES7](https://www.youtube.com/watch?v=lil4YCCXRYc)
+* [JavaScript Tutorial For Beginners #29 - THIS Keyword](https://www.youtube.com/watch?v=yVdU2coJ1VQ)
 
 
 ### Courses
