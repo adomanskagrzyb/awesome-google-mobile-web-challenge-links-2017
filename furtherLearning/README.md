@@ -37,7 +37,6 @@ __(Please add only advanced topics here. For beginner topics go here: [introduct
 
 ### Books
 
-* [FREE Developer ebooks: Everyday new ebook](https://www.packtpub.com/packt/offers/free-learning)
 * [Free Ebooks list on Github](https://github.com/EbookFoundation/free-programming-books)
 * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
 * [The node Beginner books](https://www.nodebeginner.org/)
