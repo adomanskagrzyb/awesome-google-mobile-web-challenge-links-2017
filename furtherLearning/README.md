@@ -67,7 +67,6 @@ __(Please add only advanced topics here. For beginner topics go here: [introduct
   * [DevDocs - Combine multiple API documentations in one Web Application](http://devdocs.io/)
   * [Codewars](https://codewars.com/) - Platform for coding challenges.Supporting 30+ different languages :mortar_books:
 * Online Course 
-  * [Codewars](https://codewars.com/) - Platform for coding challenges.Supporting 30+ different languages :mortar_books:
   * [Hackr.io: Programming Courses & Tutorials](https://hackr.io/) :mortar_books:
   * [What is Agile by ATLASSIAN](https://www.atlassian.com/agile):mortar_books:
 * Books, Articles
