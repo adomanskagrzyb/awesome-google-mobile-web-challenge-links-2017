@@ -3,10 +3,13 @@
 That was a great adventure, thank you for being a part of it! If you want to tackle more advanced topics or expand your skill set, here are more resources that you may find useful.
 
 Emoticons give you more information about the content:
-1. :books: Book or Reference
-2. :book:  Articles
-3. :video_camera: Video
-4. :mortar_board:  Online Course
+ * :books: book or reference
+ * :book:  articles
+ * :video_camera: video
+ * :mortar_board:  online course
+ *  🛠   online tools
+
+
 
 __(Please add only advanced topics here. For beginner topics go here: [introduction](../introduction/README.md))__
 
@@ -59,29 +62,29 @@ __(Please add only advanced topics here. For beginner topics go here: [introduct
   * [A collection of service worker generation tools from **Pinterest**: GitHub Repository](https://github.com/pinterest/service-workers)
   * [Future App Model: Advanced Service Worker (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=J2dOTKBoTL4)- Jake Archibald shares the future of the web app model, with Foreign Fetch, Streams and more :video_camera:
   
-* [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - Automated Online Tool. Audits for PWAs, performance, accessibility etc. 
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - Audits for PWAs, performance, accessibility etc. 🛠 
 * [Accelerated Mobile Pages: AMP](https://www.ampproject.org/)
 
 #  <a name="html">Miscellaneous</a>
 * Dev Tools
-  * [DevDocs - Combine multiple API documentations in one Web Application](http://devdocs.io/)
+  * [DevDocs - Combine multiple API documentations in one Web Application](http://devdocs.io/) 🛠 
   * [Codewars](https://codewars.com/) - Platform for coding challenges, supporting 30+ different languages :mortar_board:
 * Online Courses 
   * [Hackr.io: Programming Courses & Tutorials](https://hackr.io/) :mortar_board:
   * [What is Agile by ATLASSIAN](https://www.atlassian.com/agile):mortar_board:
 * Youtube Channels
-  * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/playlists) 
-  * [Computerphile](https://www.youtube.com/user/Computerphile)
-  * [Google Developer](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
-  * [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
-  * [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
-  * [MIT](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
+  * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/playlists) :video_camera:
+  * [Computerphile](https://www.youtube.com/user/Computerphile) :video_camera:
+  * [Google Developer](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw) :video_camera:
+  * [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) :video_camera:
+  * [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) :video_camera:
+  * [MIT](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw) :video_camera:
 
 * Books, Articles and other stuff
   * [List of freely available programming books](https://github.com/EbookFoundation/free-programming-books) :books:
   * [One free daily programming book](https://www.packtpub.com/packt/offers/free-learning) by Pakt :books:
   * [Designing For A Browserless Web](https://www.smashingmagazine.com/2017/11/designing-for-a-browserless-web/) :book:
-  * [23 Development Tools for Boosting Website Performance](https://www.sitepoint.com/23-development-tools-boosting-website-performance/) :book:
+  * [23 Development Tools for Boosting Website Performance](https://www.sitepoint.com/23-development-tools-boosting-website-performance/) :book: 🛠 
   * [Medium: Useful resources for beginners to Front & Back end development](https://medium.com/@emregozel/useful-resources-for-beginners-to-front-end-development-2b110499628e) :book:
   * [Github Education Pack](https://education.github.com/pack) - Free Developer pack for students. 500$+ worth of resources.  
 
