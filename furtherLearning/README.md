@@ -1,6 +1,6 @@
 # Further learning
 
-That was a great adventure, thank you for being a part of it! If you are interested in further development, here are some links that you may find useful
+That was a great adventure, thank you for being a part of it! If you want to tackle more advanced topics or expand your skill set, here are more links that you may find useful
 
 __(Please add only advanced topics here. For beginner topics go here: [introduction](../introduction/README.md))__
 
