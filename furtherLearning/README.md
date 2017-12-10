@@ -69,6 +69,14 @@ __(Please add only advanced topics here. For beginner topics go here: [introduct
 * Online Courses 
   * [Hackr.io: Programming Courses & Tutorials](https://hackr.io/) :mortar_board:
   * [What is Agile by ATLASSIAN](https://www.atlassian.com/agile):mortar_board:
+* Youtube Channels
+  * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/playlists) 
+  * [Computerphile](https://www.youtube.com/user/Computerphile)
+  * [Google Developer](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
+  * [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+  * [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+  * [MIT](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
+
 * Books, Articles and other stuff
   * [List of freely available programming books](https://github.com/EbookFoundation/free-programming-books) :books:
   * [One free daily programming book](https://www.packtpub.com/packt/offers/free-learning) by Pakt :books:
