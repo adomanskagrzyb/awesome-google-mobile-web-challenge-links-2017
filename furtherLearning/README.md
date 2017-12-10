@@ -12,10 +12,10 @@ __(Please add only advanced topics here. For beginner topics go here: [introduct
 
 [<= GO BACK ](../README.md)
 
-# Table of Content:
+##  Table of Content:
 
 - [HTML & CSS](#html)
-- [Advanced JavaScript](#purejavascript)
+- [JavaScript](#purejavascript)
 - [PWA (Progressive Web Apps) and Everything in Between](#pwa)
 - [Miscellaneous](#Miscellaneous)
 
@@ -27,7 +27,7 @@ __(Please add only advanced topics here. For beginner topics go here: [introduct
 * [MDN: Advanced text formatting](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting) :book:
 * [MDN: table advanced features and accessibility](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced) :book:
 
-# <a name="purejavascript">Advanced JavaScript</a>
+# <a name="purejavascript">JavaScript</a>
 * Vanilla (pure) JS 
 
   * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson :books:
@@ -40,20 +40,20 @@ __(Please add only advanced topics here. For beginner topics go here: [introduct
   * [Philip Roberts: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ1) :video_camera:
   * [JavaScript Tutorial For Beginners #29 - THIS Keyword](https://www.youtube.com/watch?v=yVdU2coJ1VQ) :video_camera:
 
-* Notable JS Frameworks
+* JS Frameworks
 
   * [Web Components VS Frameworks](https://medium.com/@oneeezy/frameworks-vs-web-components-9a7bd89da9d4) :book:
   * [The Node Beginner books](https://www.nodebeginner.org/) - A Node.js tutorial :books:
-  * [The Beginner's Guide to ReactJS](https://egghead.io/courses/the-beginner-s-guide-to-reactjs) :mortar_books
-  * [Getting Started with Redux Course](https://egghead.io/courses/getting-started-with-redux)  :mortar_books
+  * [The Beginner's Guide to ReactJS](https://egghead.io/courses/the-beginner-s-guide-to-reactjs) :mortar_board:
+  * [Getting Started with Redux Course](https://egghead.io/courses/getting-started-with-redux)  :mortar_board:
  
-#  <a name="pwa">Progressive Web Apps (PWA) and Everything in Between</a>
+# <a name="pwa">Progressive Web Apps (PWA) etc.</a>
 
 * [Progressive Web Apps: Fail or Not](https://simpleprogrammer.com/2017/11/08/progressive-web-applications/) :book:
 * [The State of Offline In Web Applications (2017)](https://www.wegotrats.com/the-state-of-offline-in-web-applications-2017/) :book:
 
-* [Google Codelabs - Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/index.html) :mortar_books:
-* [Progressive Web Apps (PWA)](https://www.writesoftware.org/course/progressive-web-apps) :mortar_books:
+* [Google Codelabs - Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/index.html) :mortar_board:
+* [Progressive Web Apps (PWA)](https://www.writesoftware.org/course/progressive-web-apps) :mortar_board:
 
 * Service Worker
   * [A collection of service worker generation tools from **Pinterest**: GitHub Repository](https://github.com/pinterest/service-workers)
@@ -65,15 +65,15 @@ __(Please add only advanced topics here. For beginner topics go here: [introduct
 #  <a name="html">Miscellaneous</a>
 * Dev Tools
   * [DevDocs - Combine multiple API documentations in one Web Application](http://devdocs.io/)
-  * [Codewars](https://codewars.com/) - Platform for coding challenges.Supporting 30+ different languages :mortar_books:
-* Online Course 
-  * [Hackr.io: Programming Courses & Tutorials](https://hackr.io/) :mortar_books:
-  * [What is Agile by ATLASSIAN](https://www.atlassian.com/agile):mortar_books:
-* Books, Articles
+  * [Codewars](https://codewars.com/) - Platform for coding challenges, supporting 30+ different languages :mortar_board:
+* Online Courses 
+  * [Hackr.io: Programming Courses & Tutorials](https://hackr.io/) :mortar_board:
+  * [What is Agile by ATLASSIAN](https://www.atlassian.com/agile):mortar_board:
+* Books, Articles and other stuff
   * [List of freely available programming books](https://github.com/EbookFoundation/free-programming-books) :books:
   * [One free daily programming book](https://www.packtpub.com/packt/offers/free-learning) by Pakt :books:
   * [Designing For A Browserless Web](https://www.smashingmagazine.com/2017/11/designing-for-a-browserless-web/) :book:
   * [23 Development Tools for Boosting Website Performance](https://www.sitepoint.com/23-development-tools-boosting-website-performance/) :book:
   * [Medium: Useful resources for beginners to Front & Back end development](https://medium.com/@emregozel/useful-resources-for-beginners-to-front-end-development-2b110499628e) :book:
-* [Github Education Pack](https://education.github.com/pack) - Free Developer pack for students. 500$+ worth of resources.  
+  * [Github Education Pack](https://education.github.com/pack) - Free Developer pack for students. 500$+ worth of resources.  
 
