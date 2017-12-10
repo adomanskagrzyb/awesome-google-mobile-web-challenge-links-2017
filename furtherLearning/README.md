@@ -12,7 +12,7 @@ __(Please add only advanced topics here. For beginner topics go here: [introduct
 
 [<= GO BACK ](../README.md)
 
-## Table of Content:
+# Table of Content:
 
 - [HTML & CSS](#html)
 - [Advanced JavaScript](#purejavascript)
