@@ -80,6 +80,9 @@ __(Please add only advanced topics here. For beginner topics go here: [introduct
   * [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) :video_camera:
   * [MIT](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw) :video_camera:
 
+* Communities
+  * [Dev.to](https://dev.to/) Community that share a lot of interesting dev articles :book:
+
 * Books, Articles and other stuff
   * [List of freely available programming books](https://github.com/EbookFoundation/free-programming-books) :books:
   * [One free daily programming book](https://www.packtpub.com/packt/offers/free-learning) by Pakt :books:
