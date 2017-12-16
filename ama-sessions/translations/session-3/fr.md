@@ -1,6 +1,7 @@
 ## 3ème séance AMA sur Slack
 
 **Séance: jeudi, 07-12-2017 de 15h à 16h CET**
+
 **Mentors: Paul et Marat**
 
 #### Je n’ai pas encore beaucoup avancé dans le challenge car j’ai besoin d’améliorer ma connaissance de Javascript afin de pouvoir terminer (et comprendre) le cours. Est-ce que le fait de ne pas encore avoir commencé le challenge sera pénalisant, même si j’ai utilisé mon temps pour améliorer mes compétences grâce à d’autres ressources (livres, autres cours etc.) ?
