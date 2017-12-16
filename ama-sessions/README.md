@@ -14,6 +14,7 @@ Here we collect all the questions about Udacity and the scholarship asked in the
 ### Session #3
 - [French](translations/session-3/fr.md)
 - [Hungarian](translations/session-3/hu.md)
+- [Polish](translations/session-3/pl.md)
 - [Russian](translations/session-3/ru.md)
 
 ## FAQ related links
