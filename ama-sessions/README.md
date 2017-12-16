@@ -9,5 +9,12 @@ Here we collect all the questions about Udacity and the scholarship asked in the
 - [Session #2](session-2.md) : Tuesday, 07-11-2017 at 8pm-10pm CET
 - [Session #3](session-3.md) : Thursday, 16-11-2017 at 3:30pm-5:30pm CET
 
+## Translations
+
+### Session #3
+- [French](translations/session-3/fr.md)
+- [Hungarian](translations/session-3/hu.md)
+- [Russian](translations/session-3/ru.md)
+
 ## FAQ related links
 - [FAQ](https://discussions.udacity.com/t/frequently-asked-questions-most-popular-ones-includes-official-answers/430201) about Udacity and scholarship.
