@@ -8,6 +8,7 @@ Here we collect all the questions about Udacity and the scholarship asked in the
 - [Session #1](session-1.md) : Tuesday, 07-11-2017 at 11am-1pm CET
 - [Session #2](session-2.md) : Tuesday, 07-11-2017 at 8pm-10pm CET
 - [Session #3](session-3.md) : Tuesday, 07-12-2017 at 15pm-16pm CET
+- [Session #4](session-4.md) : Tuesday, 21-12-2017 at 15pm-16pm CET
 
 ## Translations
 
