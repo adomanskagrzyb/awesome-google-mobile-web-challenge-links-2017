@@ -20,5 +20,9 @@ Here we collect all the questions about Udacity and the scholarship asked in the
 - [Polish](translations/session-3/pl.md)
 - [Russian](translations/session-3/ru.md)
 
+### Session #4
+- [Dutch](translations/session-4/nl.md)
+
+
 ## FAQ related links
 - [FAQ](https://discussions.udacity.com/t/frequently-asked-questions-most-popular-ones-includes-official-answers/430201) about Udacity and scholarship.
