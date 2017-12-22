@@ -25,6 +25,11 @@ You can contribute interesting links that might be helpful for our community, fo
 - [Getting Started and Prerequisites](https://discussions.udacity.com/t/getting-started-and-prerequisites/418485?u=haitec) (Udacity Discussion Forum)
 - [Video: Jake Archibald about progressive apps](https://www.youtube.com/watch?v=cmGr0RszHc8) (from Google I/O 2016)
 
+
+### Upon Completion
+As a graduate of this program, you'll be job-ready for Mobile Web Developer roles. In addition, you'll be fully prepared to earn the Google Mobile Web Specialist Certification, offered directly by Google.
+* [Google Certificate: Mobile Web Specialist](https://developers.google.com/training/certification/mobile-web-specialist/)
+
 ## Content
 
 This repository is divided into subfolders full of resources for each lesson and any topic that needs more information.
