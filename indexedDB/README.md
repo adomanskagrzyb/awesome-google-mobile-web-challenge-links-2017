@@ -16,6 +16,7 @@ If some of the topics in lesson 4 were new to you, we hope the resource links wi
 * [IDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 * [IDBObject Store](https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore)
 * [IDB: Put (save object)](https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/put)
+* [One of the Scholarship resource link](https://github.com/khaledkzy/Udacity-Notes/tree/master/IndexedDB%20and%20Caching)
 
 
 ## Video links
