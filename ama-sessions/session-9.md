@@ -1,6 +1,6 @@
 ## AMA Non-technical Session #9
 
-**Date:** Thursday, 26-01-2018 at 15pm-16pm CET <br>
+**Date:** Friday, 26-01-2018 at 15pm-16pm CET <br>
 **Mentors:** Paul and Magda<br>
 **Written down by**: [Vladi Stanchev](https://discussions.udacity.com/u/vladi.stanchev)
 
