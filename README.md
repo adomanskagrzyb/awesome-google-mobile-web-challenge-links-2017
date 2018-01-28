@@ -70,6 +70,7 @@ This repository is divided into subfolders full of resources for each lesson and
 * [Thinh Tran](https://github.com/PewhProgrammer)
 * [Tomasz Myśliwiec](https://github.com/tomekmy)
 * [Vittorio](https://github.com/vee-mo)
+* [Vladi Stanchev](https://github.com/vladi-stanchev)
 
 ### License
 
