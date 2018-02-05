@@ -28,15 +28,16 @@ You can contribute interesting links that might be helpful for our community, fo
 ## Content
 
 This repository is divided into subfolders full of resources for each lesson and any topic that needs more information.
+After "|" sign is list of lesson's parts containing quizzes.
 
 * [Lesson 1: Introduction](introduction/README.md)
-* [Lesson 2: Offline first](offlineFirst/README.md)
-* [Lesson 3: Service Workers](serviceWorker/README.md)
-* [Lesson 4: IndexedDB & Caching](indexedDB/README.md)
-* [Lesson 5: Javascript Syntax](javascriptSyntax/README.md)
-* [Lesson 6: Functions](functions/README.md)
-* [Lesson 7: Built-ins](built-ins/README.md)
-* [Lesson 8: professional-developer-fu](professional-developer-fu/README.md)
+* [Lesson 2: Offline first](offlineFirst/README.md) | 4,5,6,8,9,11,12
+* [Lesson 3: Service Workers](serviceWorker/README.md) | 2,4,6,7,8,11,13,15,17,18,20,21,23,25,26
+* [Lesson 4: IndexedDB & Caching](indexedDB/README.md) | 3,4,6,7,8,10,12,13
+* [Lesson 5: Javascript Syntax](javascriptSyntax/README.md) | 2(3),3,4,5,6(2),7,13,14,16,
+* [Lesson 6: Functions](functions/README.md) | 2,3(2),4,7(2),9,10(2),11,16,19(2),20
+* [Lesson 7: Built-ins](built-ins/README.md) | 5,9,11,15,24,25,26
+* [Lesson 8: professional-developer-fu](professional-developer-fu/README.md) | 3,4,7,10
 * [Further learning](furtherLearning/README.md)
 * [Q&A sessions](ama-sessions/README.md)
 
