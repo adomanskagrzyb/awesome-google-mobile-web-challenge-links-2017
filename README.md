@@ -37,6 +37,7 @@ This repository is divided into subfolders full of resources for each lesson and
 * [Lesson 6: Functions](functions/README.md)
 * [Lesson 7: Built-ins](built-ins/README.md)
 * [Lesson 8: professional-developer-fu](professional-developer-fu/README.md)
+* [Course Summary](courseSummary/README.md)
 * [Further learning](furtherLearning/README.md)
 * [Q&A sessions](ama-sessions/README.md)
 
