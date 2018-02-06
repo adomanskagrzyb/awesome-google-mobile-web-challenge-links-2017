@@ -57,6 +57,7 @@ This repository is divided into subfolders full of resources for each lesson and
 * [Iulia Voicu](https://github.com/Sugahzor)
 * [Jeff Vaes](https://github.com/jvaes)
 * [Kitti L.](https://github.com/Kiaaz)
+* [Luiz Carneiro](https://github.com/luuizpaulo)
 * [Michael Gecht](https://github.com/mimischi)
 * [Miguel Dönicke](https://github.com/Haitec)
 * [Moumen Soliman](https://github.com/moumen-soliman)
