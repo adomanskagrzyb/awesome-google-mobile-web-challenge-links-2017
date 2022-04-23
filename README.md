@@ -28,6 +28,7 @@ You can contribute interesting links that might be helpful for our community, fo
 ## Content
 
 This repository is divided into subfolders full of resources for each lesson and any topic that needs more information.
+After "|" sign is list of lesson's parts containing quizzes.
 
 * [Lesson 1: Introduction](introduction/README.md)
 * [Lesson 2: Offline first](offlineFirst/README.md)
